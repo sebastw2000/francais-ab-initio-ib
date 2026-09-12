@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Temps libre">
+  <circle cx="120" cy="120" r="116" fill="#8e44ad"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#5b2c6f" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <circle cx="95" cy="150" r="20" fill="white"/>
+  <circle cx="155" cy="140" r="16" fill="white"/>
+  <rect x="113" y="65" width="8" height="80" fill="white"/>
+  <rect x="163" y="80" width="8" height="60" fill="white"/>
+  <path d="M113 65c10-6 24-4 30 6" stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

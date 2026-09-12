@@ -1,0 +1,11 @@
+{{- $chapter := .Get "chapter" -}}
+{{- $key := printf "chapitre-%s" $chapter -}}
+{{- $data := index hugo.Data.quizzes $key -}}
+{{- $id := printf "quiz-data-%s" $chapter -}}
+{{- if not $data -}}
+  {{- warnf "quiz shortcode: no data found for %s in data/quizzes/%s.yaml" $chapter $key -}}
+{{- else -}}
+<div class="quiz-app" data-quiz-source="{{ $id }}"></div>
+<script type="application/json" id="{{ $id }}">{{ $data.questions | jsonify | safeJS }}</script>
+<script src="{{ "js/quiz.js" | relURL }}" defer></script>
+{{- end -}}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Bienvenue en francophonie">
+  <circle cx="120" cy="120" r="116" fill="#1d6fd6"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#124a94" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <circle cx="120" cy="120" r="58" fill="none" stroke="white" stroke-width="6"/>
+  <ellipse cx="120" cy="120" rx="24" ry="58" fill="none" stroke="white" stroke-width="5"/>
+  <line x1="62" y1="120" x2="178" y2="120" stroke="white" stroke-width="5"/>
+  <line x1="70" y1="90" x2="170" y2="90" stroke="white" stroke-width="4" opacity="0.85"/>
+  <line x1="70" y1="150" x2="170" y2="150" stroke="white" stroke-width="4" opacity="0.85"/>
+</svg>

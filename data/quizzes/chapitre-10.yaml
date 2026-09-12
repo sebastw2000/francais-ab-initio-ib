@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Quel pronom tonique utilise-t-on après \"avec\" pour \"je\" ?"
+    options: ["je", "me", "moi", "mon"]
+    answer: "moi"
+    explanation: "\"Moi\" est le pronom tonique de \"je\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a birthday\" en français ?"
+    options: ["une fête", "un anniversaire", "un cadeau", "une invitation"]
+    answer: "un anniversaire"
+    explanation: "\"Un anniversaire\" célèbre le jour de naissance."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I am in the process of preparing the cake\""
+    answer: ["je suis en train de préparer le gâteau"]
+    explanation: "\"Être en train de\" + infinitif exprime une action en cours."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"devoir\" pour \"tu\" ?"
+    options: ["tu dois", "tu peux", "tu veux", "tu es"]
+    answer: "tu dois"
+    explanation: "\"Tu dois\" est la deuxième personne du singulier de \"devoir\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["chez", "viens", "moi"]
+    answer: "viens chez moi"
+    explanation: "\"Chez moi\" indique un lieu (ma maison)."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to give a gift\" en français ?"
+    options: ["inviter", "offrir un cadeau", "célébrer", "s'amuser"]
+    answer: "offrir un cadeau"
+    explanation: "\"Offrir un cadeau\" s'utilise pour les fêtes et anniversaires."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"they are having fun\" (eux)"
+    answer: ["ils s'amusent"]
+    explanation: "\"S'amuser\" est un verbe pronominal."
+
+  - type: "choice"
+    prompt: "Quel pronom tonique utilise-t-on pour \"eux\" (masculin pluriel) ?"
+    options: ["elles", "eux", "ils", "leur"]
+    answer: "eux"
+    explanation: "\"Eux\" est le pronom tonique masculin pluriel."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"vouloir\" pour \"nous\" ?"
+    options: ["nous voulons", "nous devons", "nous pouvons", "nous sommes"]
+    answer: "nous voulons"
+    explanation: "\"Nous voulons\" est la première personne du pluriel de \"vouloir\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to get together / meet up\""
+    answer: ["se réunir"]
+    explanation: "\"Se réunir\" s'utilise pour parler de rassemblements."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["fête", "une", "organiser", "vais", "je"]
+    answer: "je vais organiser une fête"
+    explanation: "\"Vais organiser\" est le futur proche de \"organiser\"."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"pouvoir\" pour \"vous\" ?"
+    options: ["vous pouvez", "vous devez", "vous voulez", "vous êtes"]
+    answer: "vous pouvez"
+    explanation: "\"Vous pouvez\" est la forme polie de \"pouvoir\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a traditional dish\" en français ?"
+    options: ["un cadeau", "un plat traditionnel", "une invitation", "une fête"]
+    answer: "un plat traditionnel"
+    explanation: "\"Un plat traditionnel\" fait partie des habitudes culturelles."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"with him\""
+    answer: ["avec lui"]
+    explanation: "\"Lui\" est le pronom tonique masculin singulier."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"devoir\" pour \"ils\" ?"
+    options: ["ils doivent", "ils peuvent", "ils veulent", "ils sont"]
+    answer: "ils doivent"
+    explanation: "\"Ils doivent\" est la troisième personne du pluriel de \"devoir\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["suis", "en", "train", "de", "chanter", "je"]
+    answer: "je suis en train de chanter"
+    explanation: "\"Être en train de\" + infinitif exprime une action en cours."
+
+  - type: "choice"
+    prompt: "Quel pronom tonique utilise-t-on pour \"toi\" après une préposition ?"
+    options: ["tu", "te", "toi", "ton"]
+    answer: "toi"
+    explanation: "\"Toi\" est le pronom tonique de \"tu\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to celebrate\""
+    answer: ["célébrer"]
+    explanation: "\"Célébrer\" s'utilise pour marquer une occasion spéciale."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"vouloir\" pour \"elle\" ?"
+    options: ["elle veut", "elle doit", "elle peut", "elle est"]
+    answer: "elle veut"
+    explanation: "\"Elle veut\" est la troisième personne du singulier de \"vouloir\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"an invitation\" en français ?"
+    options: ["un cadeau", "une invitation", "une fête", "un anniversaire"]
+    answer: "une invitation"
+    explanation: "\"Une invitation\" s'envoie pour inviter quelqu'un à une fête."

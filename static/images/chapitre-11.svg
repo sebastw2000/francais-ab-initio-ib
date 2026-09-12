@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="La santé pour tous">
+  <circle cx="120" cy="120" r="116" fill="#e74c3c"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#962d22" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <circle cx="120" cy="120" r="55" fill="white"/>
+  <rect x="105" y="90" width="30" height="60" rx="6" fill="#e74c3c"/>
+  <rect x="90" y="105" width="60" height="30" rx="6" fill="#e74c3c"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="En ville">
+  <circle cx="120" cy="120" r="116" fill="#2980b9"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#1c5a80" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <rect x="70" y="80" width="45" height="95" fill="white"/>
+  <rect x="125" y="55" width="45" height="120" fill="white" opacity="0.9"/>
+  <rect x="80" y="95" width="10" height="10" fill="#2980b9"/>
+  <rect x="98" y="95" width="10" height="10" fill="#2980b9"/>
+  <rect x="80" y="118" width="10" height="10" fill="#2980b9"/>
+  <rect x="98" y="118" width="10" height="10" fill="#2980b9"/>
+  <rect x="135" y="72" width="10" height="10" fill="#2980b9"/>
+  <rect x="153" y="72" width="10" height="10" fill="#2980b9"/>
+  <rect x="135" y="95" width="10" height="10" fill="#2980b9"/>
+  <rect x="153" y="95" width="10" height="10" fill="#2980b9"/>
+</svg>

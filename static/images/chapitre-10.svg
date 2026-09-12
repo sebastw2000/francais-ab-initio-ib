@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Faites la fête !">
+  <circle cx="120" cy="120" r="116" fill="#d63384"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#832052" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <rect x="85" y="120" width="70" height="55" rx="6" fill="white"/>
+  <rect x="85" y="105" width="70" height="18" rx="4" fill="white" opacity="0.9"/>
+  <line x1="120" y1="105" x2="120" y2="70" stroke="white" stroke-width="6"/>
+  <path d="M120 70c-8 0-8-14 0-14s8 14 0 14z" fill="white"/>
+</svg>

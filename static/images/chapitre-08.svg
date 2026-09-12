@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Projets de vacances">
+  <circle cx="120" cy="120" r="116" fill="#d68910"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#8a5a0b" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <rect x="75" y="95" width="90" height="70" rx="10" fill="white"/>
+  <rect x="100" y="80" width="40" height="20" rx="6" fill="white"/>
+  <line x1="120" y1="95" x2="120" y2="165" stroke="#d68910" stroke-width="5"/>
+  <circle cx="98" cy="120" r="6" fill="#d68910"/>
+  <circle cx="142" cy="120" r="6" fill="#d68910"/>
+</svg>

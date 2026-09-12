@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Comment dit-on \"to feel unwell\" en français ?"
+    options: ["se sentir bien", "se sentir mal", "garder la forme", "avoir de la fièvre"]
+    answer: "se sentir mal"
+    explanation: "\"Se sentir mal\" exprime un malaise général."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de l'imparfait de \"avoir\" pour \"je\" ?"
+    options: ["j'ai", "j'avais", "j'aurai", "j'aie"]
+    answer: "j'avais"
+    explanation: "\"J'avais\" est l'imparfait de \"avoir\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I have a headache\""
+    answer: ["j'ai mal à la tête"]
+    explanation: "\"Avoir mal à\" + partie du corps exprime une douleur."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de l'imparfait de \"être\" pour \"tu\" ?"
+    options: ["tu es", "tu étais", "tu seras", "tu sois"]
+    answer: "tu étais"
+    explanation: "\"Tu étais\" est l'imparfait de \"être\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["tomber", "viens", "de", "je"]
+    answer: "je viens de tomber"
+    explanation: "\"Venir de\" + infinitif exprime le passé récent."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a cold\" (maladie) en français ?"
+    options: ["la fièvre", "un rhume", "un accident", "une pharmacie"]
+    answer: "un rhume"
+    explanation: "\"Un rhume\" est une maladie légère et courante."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"she was tired\" (description, imparfait)"
+    answer: ["elle était fatiguée"]
+    explanation: "L'imparfait décrit un état dans le passé."
+
+  - type: "choice"
+    prompt: "Quand utilise-t-on l'imparfait ?"
+    options: ["pour une action précise", "pour une description ou une habitude", "pour le futur", "pour un ordre"]
+    answer: "pour une description ou une habitude"
+    explanation: "L'imparfait sert aux descriptions et aux habitudes passées."
+
+  - type: "choice"
+    prompt: "Quand utilise-t-on le passé composé ?"
+    options: ["pour une description", "pour une habitude", "pour une action précise et terminée", "pour le présent"]
+    answer: "pour une action précise et terminée"
+    explanation: "Le passé composé exprime une action ponctuelle et achevée."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to need\""
+    answer: ["avoir besoin de"]
+    explanation: "\"Avoir besoin de\" exprime un besoin."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["ventre", "j'ai", "au", "mal"]
+    answer: "j'ai mal au ventre"
+    explanation: "\"Avoir mal au ventre\" exprime une douleur à l'estomac."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to stay fit\" en français ?"
+    options: ["être malade", "garder la forme", "avoir mal", "se blesser"]
+    answer: "garder la forme"
+    explanation: "\"Garder la forme\" signifie rester en bonne condition physique."
+
+  - type: "choice"
+    prompt: "\"Venir de\" + infinitif exprime :"
+    options: ["le futur proche", "le passé récent", "l'imparfait", "le conditionnel"]
+    answer: "le passé récent"
+    explanation: "\"Venir de\" décrit une action qui vient de se terminer."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a doctor\""
+    answer: ["un médecin"]
+    explanation: "\"Un médecin\" soigne les malades."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de l'imparfait de \"faire\" pour \"nous\" ?"
+    options: ["nous faisons", "nous faisions", "nous ferons", "nous fassions"]
+    answer: "nous faisions"
+    explanation: "\"Nous faisions\" est l'imparfait de \"faire\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["souvent", "j'étais", "malade"]
+    answer: "j'étais souvent malade"
+    explanation: "L'imparfait décrit une habitude répétée dans le passé."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to get hurt\" en français ?"
+    options: ["se sentir mal", "se blesser", "avoir mal", "être malade"]
+    answer: "se blesser"
+    explanation: "\"Se blesser\" décrit le fait de se faire une blessure."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"an appointment\""
+    answer: ["un rendez-vous"]
+    explanation: "\"Un rendez-vous\" est une visite programmée chez le médecin."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de l'imparfait de \"avoir\" pour \"ils\" ?"
+    options: ["ils ont", "ils avaient", "ils auront", "ils aient"]
+    answer: "ils avaient"
+    explanation: "\"Ils avaient\" est l'imparfait de \"avoir\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"health\" en français ?"
+    options: ["le corps", "la santé", "la fièvre", "un accident"]
+    answer: "la santé"
+    explanation: "\"La santé\" désigne l'état général de bien-être physique."

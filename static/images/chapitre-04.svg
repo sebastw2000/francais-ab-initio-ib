@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Bon appétit !">
+  <circle cx="120" cy="120" r="116" fill="#c0392b"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#7a2119" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <circle cx="120" cy="130" r="50" fill="white"/>
+  <circle cx="100" cy="120" r="10" fill="#c0392b"/>
+  <circle cx="135" cy="115" r="8" fill="#e0507f"/>
+  <circle cx="120" cy="145" r="9" fill="#f0932b"/>
+</svg>

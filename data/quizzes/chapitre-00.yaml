@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Comment dit-on \"the world\" en français ?"
+    options: ["le monde", "la langue", "le pays", "la carte"]
+    answer: "le monde"
+    explanation: "\"Le monde\" désigne la Terre et l'ensemble des pays."
+
+  - type: "choice"
+    prompt: "Quel article utilise-t-on avec \"pays\" (masculin) ?"
+    options: ["la", "le", "les", "une"]
+    answer: "le"
+    explanation: "\"Pays\" est un nom masculin singulier, donc on utilise \"le\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"hello\""
+    answer: ["bonjour"]
+    explanation: "\"Bonjour\" est le salut le plus courant en français."
+
+  - type: "choice"
+    prompt: "Quel mot est féminin ?"
+    options: ["le drapeau", "la langue", "le monde", "le pays"]
+    answer: "la langue"
+    explanation: "\"Langue\" est un nom féminin, donc on dit \"la langue\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["une", "est", "le", "officielle", "français", "langue"]
+    answer: "le français est une langue officielle"
+    explanation: "L'ordre est : sujet + verbe + article + nom + adjectif."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"goodbye\" en français ?"
+    options: ["bonjour", "merci", "au revoir", "s'il vous plaît"]
+    answer: "au revoir"
+    explanation: "\"Au revoir\" s'utilise pour dire au revoir à quelqu'un."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"thank you\""
+    answer: ["merci"]
+    explanation: "\"Merci\" est le mot pour remercier quelqu'un."
+
+  - type: "choice"
+    prompt: "Quel article indéfini utilise-t-on avec \"carte\" (féminin) ?"
+    options: ["un", "une", "des", "le"]
+    answer: "une"
+    explanation: "\"Carte\" est féminin singulier, donc on utilise \"une\"."
+
+  - type: "choice"
+    prompt: "Quel est l'article défini pluriel ?"
+    options: ["le", "la", "les", "un"]
+    answer: "les"
+    explanation: "\"Les\" est l'article défini utilisé pour le pluriel, masculin ou féminin."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a French-speaking country\""
+    answer: ["un pays francophone"]
+    explanation: "\"Un pays francophone\" désigne un pays où l'on parle français."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["est", "le", "et", "drapeau", "rouge", "bleu", "blanc"]
+    answer: "le drapeau est bleu blanc et rouge"
+    explanation: "On décrit les couleurs du drapeau français dans cet ordre traditionnel."
+
+  - type: "choice"
+    prompt: "Combien de pays ont le français comme langue officielle (environ) ?"
+    options: ["5", "10", "29", "100"]
+    answer: "29"
+    explanation: "Le français est langue officielle dans environ 29 pays."
+
+  - type: "choice"
+    prompt: "Quel mot signifie \"the flag\" ?"
+    options: ["le monde", "le drapeau", "la carte", "le pays"]
+    answer: "le drapeau"
+    explanation: "\"Le drapeau\" est le symbole national d'un pays."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"please\""
+    answer: ["s'il vous plaît", "s'il vous plait"]
+    explanation: "\"S'il vous plaît\" est la forme polie pour demander quelque chose."
+
+  - type: "choice"
+    prompt: "Quelle organisation réunit les pays francophones ?"
+    options: ["l'Union européenne", "l'Organisation internationale de la Francophonie", "les Nations unies", "l'OTAN"]
+    answer: "l'Organisation internationale de la Francophonie"
+    explanation: "L'OIF réunit les pays et gouvernements francophones du monde entier."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["est", "parlé", "dans", "le", "français", "le", "monde"]
+    answer: "le français est parlé dans le monde"
+    explanation: "L'ordre est : sujet + verbe + complément de lieu."
+
+  - type: "choice"
+    prompt: "Quel pays n'est PAS un pays francophone ?"
+    options: ["le Sénégal", "la Belgique", "le Canada", "l'Espagne"]
+    answer: "l'Espagne"
+    explanation: "L'Espagne est hispanophone ; les trois autres pays ont le français comme langue officielle."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a symbol\""
+    answer: ["un symbole"]
+    explanation: "\"Un symbole\" est un nom masculin."
+
+  - type: "choice"
+    prompt: "Quel article utilise-t-on devant un nom qui commence par une voyelle, comme \"école\" ?"
+    options: ["le", "la", "l'", "les"]
+    answer: "l'"
+    explanation: "Devant une voyelle ou un h muet, \"le\" et \"la\" deviennent \"l'\"."
+
+  - type: "choice"
+    prompt: "La province de Québec se trouve dans quel pays francophone ?"
+    options: ["la France", "le Canada", "la Suisse", "Madagascar"]
+    answer: "le Canada"
+    explanation: "Le Québec est une province francophone du Canada."

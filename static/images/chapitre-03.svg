@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="La vie quotidienne">
+  <circle cx="120" cy="120" r="116" fill="#f0932b"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#905819" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <circle cx="120" cy="122" r="58" fill="white"/>
+  <circle cx="120" cy="122" r="58" fill="none" stroke="#f0932b" stroke-width="6"/>
+  <line x1="120" y1="122" x2="120" y2="86" stroke="#f0932b" stroke-width="7" stroke-linecap="round"/>
+  <line x1="120" y1="122" x2="146" y2="136" stroke="#f0932b" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="120" cy="122" r="6" fill="#f0932b"/>
+  <circle cx="120" cy="60" r="6" fill="white"/>
+</svg>

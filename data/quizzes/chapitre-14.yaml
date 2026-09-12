@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Que remplace le pronom \"en\" dans \"j'en veux\" ?"
+    options: ["un lieu", "de + nom", "une personne", "un adjectif"]
+    answer: "de + nom"
+    explanation: "\"En\" remplace \"de\" + un nom déjà mentionné."
+
+  - type: "choice"
+    prompt: "Quel temps utilise-t-on pour une action précise et terminée dans le passé ?"
+    options: ["le présent", "le passé composé", "l'imparfait", "le futur"]
+    answer: "le passé composé"
+    explanation: "Le passé composé exprime une action ponctuelle et achevée."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"there are a lot of them\""
+    answer: ["il y en a beaucoup"]
+    explanation: "\"Il y en a\" + quantité exprime une quantité d'éléments."
+
+  - type: "choice"
+    prompt: "Quel temps utilise-t-on pour une description ou une habitude dans le passé ?"
+    options: ["le présent", "le passé composé", "l'imparfait", "le futur"]
+    answer: "l'imparfait"
+    explanation: "L'imparfait sert aux descriptions et aux habitudes passées."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["en", "veux", "j'", "trois"]
+    answer: "j'en veux trois"
+    explanation: "\"En\" remplace le nom, et le nombre suit le verbe."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"independence\" en français ?"
+    options: ["une colonie", "l'indépendance", "un dialecte", "un accent"]
+    answer: "l'indépendance"
+    explanation: "\"L'indépendance\" désigne la souveraineté d'un pays."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"everywhere in the world\""
+    answer: ["partout dans le monde"]
+    explanation: "\"Partout dans le monde\" indique une présence globale."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"devoir\" pour \"je\" ?"
+    options: ["je dois", "je peux", "je veux", "je suis"]
+    answer: "je dois"
+    explanation: "\"Je dois\" est la première personne du singulier de \"devoir\"."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"pouvoir\" pour \"tu\" ?"
+    options: ["tu peux", "tu dois", "tu veux", "tu es"]
+    answer: "tu peux"
+    explanation: "\"Tu peux\" est la deuxième personne du singulier de \"pouvoir\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"an accent\""
+    answer: ["un accent"]
+    explanation: "\"Un accent\" varie selon les régions francophones."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["est", "parlé", "le", "français", "partout"]
+    answer: "le français est parlé partout"
+    explanation: "L'ordre est : sujet + verbe + adverbe de lieu."
+
+  - type: "choice"
+    prompt: "Quel est le futur simple de \"vouloir\" pour \"je\" ?"
+    options: ["je veux", "je voudrai", "je voulais", "je veuille"]
+    answer: "je voudrai"
+    explanation: "\"Vouloir\" a un radical irrégulier au futur : \"voudr-\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to vary\" en français ?"
+    options: ["varier", "changer", "parler", "exister"]
+    answer: "varier"
+    explanation: "\"Varier\" décrit un changement selon le contexte."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a dialect\""
+    answer: ["un dialecte"]
+    explanation: "\"Un dialecte\" est une variété régionale d'une langue."
+
+  - type: "choice"
+    prompt: "Quel est le comparatif de supériorité ?"
+    options: ["moins...que", "aussi...que", "plus...que", "très...que"]
+    answer: "plus...que"
+    explanation: "\"Plus...que\" exprime la supériorité."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["monde", "francophone", "le", "est", "riche"]
+    answer: "le monde francophone est riche"
+    explanation: "L'ordre est : sujet + verbe + adjectif."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"vouloir\" pour \"ils\" ?"
+    options: ["ils veulent", "ils doivent", "ils peuvent", "ils sont"]
+    answer: "ils veulent"
+    explanation: "\"Ils veulent\" est la troisième personne du pluriel de \"vouloir\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"history\""
+    answer: ["l'histoire"]
+    explanation: "\"L'histoire\" étudie les événements du passé."
+
+  - type: "choice"
+    prompt: "Quel est le superlatif de \"grand\" ?"
+    options: ["plus grand", "le plus grand", "aussi grand", "moins grand"]
+    answer: "le plus grand"
+    explanation: "Le superlatif se forme avec \"le/la plus\" + adjectif."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a colony\" en français ?"
+    options: ["l'indépendance", "une colonie", "un accent", "un dialecte"]
+    answer: "une colonie"
+    explanation: "\"Une colonie\" était administrée par un autre pays."

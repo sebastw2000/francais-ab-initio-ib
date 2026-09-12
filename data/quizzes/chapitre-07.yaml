@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Quel pronom relatif remplace le sujet ?"
+    options: ["que", "qui", "où", "depuis"]
+    answer: "qui"
+    explanation: "\"Qui\" remplace le sujet du verbe qui suit."
+
+  - type: "choice"
+    prompt: "Quel pronom relatif remplace le complément d'objet direct ?"
+    options: ["qui", "que", "où", "dont"]
+    answer: "que"
+    explanation: "\"Que\" remplace le complément d'objet direct."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I have been playing tennis for three years\""
+    answer: ["je joue au tennis depuis trois ans"]
+    explanation: "On utilise le présent + \"depuis\" pour une action qui continue."
+
+  - type: "choice"
+    prompt: "Quelle préposition utilise-t-on avec un sport ?"
+    options: ["jouer de", "jouer à", "jouer en", "jouer sur"]
+    answer: "jouer à"
+    explanation: "\"Jouer à\" s'utilise avec les sports et les jeux."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["piano", "joue", "du", "je"]
+    answer: "je joue du piano"
+    explanation: "\"Jouer de\" s'utilise avec les instruments de musique."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to watch television\" en français ?"
+    options: ["écouter de la musique", "regarder la télévision", "jouer au foot", "lire un livre"]
+    answer: "regarder la télévision"
+    explanation: "\"Regarder la télévision\" est une activité de loisir courante."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"it was interesting\""
+    answer: ["c'était intéressant"]
+    explanation: "\"C'était\" + adjectif exprime une opinion sur le passé."
+
+  - type: "choice"
+    prompt: "Quelle préposition utilise-t-on avec un instrument de musique ?"
+    options: ["jouer à", "jouer de", "jouer sur", "jouer pour"]
+    answer: "jouer de"
+    explanation: "\"Jouer de\" s'utilise avec les instruments."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to be interested in\" en français ?"
+    options: ["commencer à", "s'intéresser à", "jouer à", "penser à"]
+    answer: "s'intéresser à"
+    explanation: "\"S'intéresser à\" exprime un intérêt pour quelque chose."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a TV series\""
+    answer: ["un feuilleton"]
+    explanation: "\"Un feuilleton\" est une série télévisée."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["je", "regarde", "le", "film", "que", "j'aime"]
+    answer: "je regarde le film que j'aime"
+    explanation: "\"Que\" introduit le complément d'objet direct \"j'aime\"."
+
+  - type: "choice"
+    prompt: "Quelle question correspond à \"depuis\" ?"
+    options: ["Où ?", "Depuis quand ?", "Pourquoi ?", "Combien ?"]
+    answer: "Depuis quand ?"
+    explanation: "\"Depuis quand\" demande le début d'une action qui continue."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a song\" en français ?"
+    options: ["un feuilleton", "une chanson", "un joueur", "un livre"]
+    answer: "une chanson"
+    explanation: "\"Une chanson\" est une œuvre musicale chantée."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a player\""
+    answer: ["un joueur"]
+    explanation: "\"Un joueur\" désigne une personne qui joue."
+
+  - type: "choice"
+    prompt: "Quelle préposition complète \"commencer ___ jouer\" ?"
+    options: ["de", "à", "pour", "en"]
+    answer: "à"
+    explanation: "\"Commencer à\" + infinitif exprime le début d'une action."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["ans", "depuis", "deux", "je", "danse"]
+    answer: "je danse depuis deux ans"
+    explanation: "\"Depuis deux ans\" indique la durée d'une action en cours."
+
+  - type: "choice"
+    prompt: "\"C'était nul\" veut dire :"
+    options: ["it was great", "it was boring/bad", "it was fast", "it was easy"]
+    answer: "it was boring/bad"
+    explanation: "\"Nul\" est une expression familière pour dire que c'était mauvais."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to read a book\""
+    answer: ["lire un livre"]
+    explanation: "\"Lire un livre\" est une activité de loisir courante."
+
+  - type: "choice"
+    prompt: "Quel pronom relatif utiliserais-tu dans \"la chanson ___ j'écoute\" ?"
+    options: ["qui", "que", "où", "depuis"]
+    answer: "que"
+    explanation: "\"Que\" remplace le complément d'objet direct de \"j'écoute\"."
+
+  - type: "choice"
+    prompt: "Quel pronom relatif utiliserais-tu dans \"le sport ___ me plaît\" ?"
+    options: ["qui", "que", "où", "depuis"]
+    answer: "qui"
+    explanation: "\"Qui\" remplace le sujet du verbe \"plaît\"."

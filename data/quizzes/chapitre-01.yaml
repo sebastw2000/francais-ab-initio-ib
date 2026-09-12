@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Comment dit-on \"my name is\" en français ?"
+    options: ["Je m'appelle", "J'ai ans", "Je suis de", "J'habite à"]
+    answer: "Je m'appelle"
+    explanation: "\"Je m'appelle\" + nom s'utilise pour se présenter."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du verbe \"être\" pour \"je\" ?"
+    options: ["es", "suis", "est", "sommes"]
+    answer: "suis"
+    explanation: "\"Je suis\" est la première personne du singulier du verbe être."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I am fifteen years old\""
+    answer: ["j'ai quinze ans"]
+    explanation: "En français, on utilise \"avoir\" + âge, pas le verbe \"être\"."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du verbe \"avoir\" pour \"nous\" ?"
+    options: ["ai", "as", "a", "avons"]
+    answer: "avons"
+    explanation: "\"Nous avons\" est la première personne du pluriel du verbe avoir."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["ans", "ai", "quinze", "j'"]
+    answer: "j'ai quinze ans"
+    explanation: "La structure est : j'ai + nombre + ans."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"the family\" en français ?"
+    options: ["le frère", "la famille", "la sœur", "les parents"]
+    answer: "la famille"
+    explanation: "\"La famille\" est un nom féminin."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I have a dog\""
+    answer: ["j'ai un chien"]
+    explanation: "\"J'ai un chien\" utilise le verbe avoir + article + nom masculin."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"parler\" pour \"tu\" ?"
+    options: ["parle", "parles", "parlons", "parlent"]
+    answer: "parles"
+    explanation: "Les verbes en -er prennent -es à la deuxième personne du singulier."
+
+  - type: "choice"
+    prompt: "Quel est le pluriel de \"l'animal\" ?"
+    options: ["les animals", "les animaux", "les animales", "les animeaux"]
+    answer: "les animaux"
+    explanation: "Les noms en -al font leur pluriel en -aux."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"my mother\""
+    answer: ["ma mère", "ma mere"]
+    explanation: "\"Mère\" est féminin, donc on utilise l'adjectif possessif \"ma\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["chien", "mon", "s'appelle", "Max"]
+    answer: "mon chien s'appelle Max"
+    explanation: "\"Mon chien s'appelle...\" s'utilise pour donner le nom d'un animal."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du verbe \"être\" pour \"ils\" ?"
+    options: ["est", "es", "sont", "sommes"]
+    answer: "sont"
+    explanation: "\"Ils sont\" est la troisième personne du pluriel du verbe être."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"brother\" en français ?"
+    options: ["la sœur", "le frère", "le père", "la mère"]
+    answer: "le frère"
+    explanation: "\"Le frère\" est un nom masculin."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"what's your name?\""
+    answer: ["comment tu t'appelles"]
+    explanation: "\"Comment tu t'appelles ?\" est la question familière pour demander le nom."
+
+  - type: "choice"
+    prompt: "Quel adjectif possessif utilise-t-on avec \"père\" (masculin) pour dire \"my father\" ?"
+    options: ["ma", "mon", "mes", "ta"]
+    answer: "mon"
+    explanation: "\"Mon\" s'utilise devant un nom masculin singulier."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["deux", "j'ai", "sœurs"]
+    answer: "j'ai deux sœurs"
+    explanation: "La structure est : j'ai + nombre + nom au pluriel."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du verbe \"avoir\" pour \"il\" ?"
+    options: ["ai", "as", "a", "ont"]
+    answer: "a"
+    explanation: "\"Il a\" est la troisième personne du singulier du verbe avoir."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"pleased to meet you\" (dit par une fille)"
+    answer: ["enchantée"]
+    explanation: "Une fille dit \"enchantée\" ; un garçon dirait \"enchanté\"."
+
+  - type: "choice"
+    prompt: "Quel adjectif possessif utilise-t-on avec \"amis\" (pluriel) pour dire \"your friends\" (tu) ?"
+    options: ["ton", "ta", "tes", "ses"]
+    answer: "tes"
+    explanation: "\"Tes\" s'utilise devant un nom pluriel, masculin ou féminin."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"habiter\" pour \"nous\" ?"
+    options: ["habite", "habites", "habitons", "habitent"]
+    answer: "habitons"
+    explanation: "Les verbes en -er prennent -ons à la première personne du pluriel."

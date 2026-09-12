@@ -1,0 +1,9 @@
+baseURL = "https://francais-ab-initio-ib.netlify.app/"
+languageCode = "fr"
+title = "Français ab initio"
+theme = "hugo-book"
+
+[params]
+  BookSection = "docs"
+  BookTheme = "light"
+  BookToC = true

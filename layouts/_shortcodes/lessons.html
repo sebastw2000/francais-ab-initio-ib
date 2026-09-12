@@ -1,0 +1,10 @@
+{{- $showQuiz := ne (.Get "quiz") "false" -}}
+<div class="lessons-row">
+  <a class="lesson-btn btn-vocab" href="vocabulaire">📘 Vocabulaire</a>
+  <a class="lesson-btn btn-gramatica" href="grammaire">✏️ Grammaire</a>
+  <a class="lesson-btn btn-practica" href="pratique">🗣️ Pratique orale</a>
+  <a class="lesson-btn btn-recursos" href="ressources">📎 Ressources</a>
+  {{- if $showQuiz }}
+  <a class="lesson-btn btn-quiz" href="quiz">✅ Quiz</a>
+  {{- end }}
+</div>

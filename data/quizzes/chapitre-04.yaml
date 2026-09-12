@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Quel article utilise-t-on avec \"pain\" (masculin, quantité indéterminée) ?"
+    options: ["le", "du", "un", "des"]
+    answer: "du"
+    explanation: "\"Du\" est l'article partitif masculin singulier."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to go grocery shopping\" en français ?"
+    options: ["faire la cuisine", "faire les courses", "faire du sport", "faire ses devoirs"]
+    answer: "faire les courses"
+    explanation: "\"Faire les courses\" s'utilise pour parler des achats alimentaires."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I ate bread\""
+    answer: ["j'ai mangé du pain"]
+    explanation: "Le passé composé de \"manger\" + article partitif \"du\"."
+
+  - type: "choice"
+    prompt: "Quel est le participe passé de \"manger\" ?"
+    options: ["mangé", "mangée", "manger", "mangeant"]
+    answer: "mangé"
+    explanation: "Les verbes en -er ont un participe passé en -é."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["ai", "j'", "mangé", "salade", "de", "la"]
+    answer: "j'ai mangé de la salade"
+    explanation: "\"De la\" est l'article partitif féminin singulier."
+
+  - type: "choice"
+    prompt: "Quel article utilise-t-on avec \"eau\" (féminin, devant une voyelle) ?"
+    options: ["de la", "du", "de l'", "des"]
+    answer: "de l'"
+    explanation: "Devant une voyelle, \"de la\" et \"du\" deviennent \"de l'\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"we ate vegetables\""
+    answer: ["nous avons mangé des légumes"]
+    explanation: "\"Des\" est l'article partitif pluriel."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du passé composé de \"faire\" pour \"il\" ?"
+    options: ["il fait", "il a fait", "il faire", "il a faire"]
+    answer: "il a fait"
+    explanation: "\"Faire\" a un participe passé irrégulier : \"fait\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a lot of\" en français ?"
+    options: ["un peu de", "beaucoup de", "assez de", "trop de"]
+    answer: "beaucoup de"
+    explanation: "\"Beaucoup de\" exprime une grande quantité."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I did not eat cheese\""
+    answer: ["je n'ai pas mangé de fromage", "je n ai pas mangé de fromage"]
+    explanation: "Après une négation, l'article partitif devient \"de\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["avons", "commandé", "nous", "poisson", "du"]
+    answer: "nous avons commandé du poisson"
+    explanation: "\"Du\" est l'article partitif masculin singulier."
+
+  - type: "choice"
+    prompt: "Quel est l'article partitif pour \"légumes\" (pluriel) ?"
+    options: ["du", "de la", "de l'", "des"]
+    answer: "des"
+    explanation: "\"Des\" s'utilise devant un nom pluriel."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to be hungry\" en français ?"
+    options: ["avoir soif", "avoir faim", "avoir raison", "avoir peur"]
+    answer: "avoir faim"
+    explanation: "\"Avoir faim\" exprime la sensation de faim."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a little bit of\""
+    answer: ["un peu de"]
+    explanation: "\"Un peu de\" exprime une petite quantité."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du passé composé de \"manger\" pour \"tu\" ?"
+    options: ["tu manges", "tu as mangé", "tu manger", "tu es mangé"]
+    answer: "tu as mangé"
+    explanation: "\"Manger\" se conjugue avec l'auxiliaire \"avoir\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["faim", "j'ai", "très"]
+    answer: "j'ai très faim"
+    explanation: "\"Très\" renforce l'expression \"avoir faim\"."
+
+  - type: "choice"
+    prompt: "Quel article partitif utilise-t-on après \"ne...pas\" ?"
+    options: ["du", "de", "des", "de la"]
+    answer: "de"
+    explanation: "La négation transforme tous les articles partitifs en \"de\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"the menu\" (au restaurant)"
+    answer: ["la carte"]
+    explanation: "\"La carte\" désigne le menu d'un restaurant."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"too much of\" en français ?"
+    options: ["assez de", "trop de", "beaucoup de", "un peu de"]
+    answer: "trop de"
+    explanation: "\"Trop de\" exprime une quantité excessive."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du passé composé de \"avoir\" pour \"ils\" ?"
+    options: ["ils ont eu", "ils ont", "ils avoir", "ils sont eu"]
+    answer: "ils ont eu"
+    explanation: "\"Avoir\" a un participe passé irrégulier : \"eu\"."

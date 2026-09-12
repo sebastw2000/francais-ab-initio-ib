@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du verbe \"aller\" pour \"je\" ?"
+    options: ["vais", "vas", "va", "allons"]
+    answer: "vais"
+    explanation: "\"Je vais\" est la première personne du singulier du verbe aller."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to wake up\" en français ?"
+    options: ["se coucher", "se réveiller", "s'habiller", "se laver"]
+    answer: "se réveiller"
+    explanation: "\"Se réveiller\" décrit le moment où l'on cesse de dormir."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I get up at seven o'clock\""
+    answer: ["je me lève à sept heures"]
+    explanation: "\"Je me lève à\" + heure s'utilise pour dire à quelle heure on se lève."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du verbe \"faire\" pour \"nous\" ?"
+    options: ["fais", "fait", "faisons", "font"]
+    answer: "faisons"
+    explanation: "\"Nous faisons\" est la première personne du pluriel du verbe faire."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["devoirs", "vais", "mes", "faire", "je"]
+    answer: "je vais faire mes devoirs"
+    explanation: "Le futur proche est : aller au présent + infinitif."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"the bedroom\" en français ?"
+    options: ["la cuisine", "la chambre", "la salle de bains", "la maison"]
+    answer: "la chambre"
+    explanation: "\"La chambre\" est la pièce où l'on dort."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"she gets dressed\""
+    answer: ["elle s'habille"]
+    explanation: "\"S'habiller\" est un verbe pronominal."
+
+  - type: "choice"
+    prompt: "Quel temps utilise-t-on pour \"aller\" + infinitif ?"
+    options: ["le passé composé", "le futur proche", "l'imparfait", "le présent simple"]
+    answer: "le futur proche"
+    explanation: "Le futur proche sert à parler d'une action qui va bientôt se passer."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du verbe \"aller\" pour \"ils\" ?"
+    options: ["va", "vas", "allons", "vont"]
+    answer: "vont"
+    explanation: "\"Ils vont\" est la troisième personne du pluriel du verbe aller."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"every day\""
+    answer: ["tous les jours"]
+    explanation: "\"Tous les jours\" indique une action répétée quotidiennement."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["heures", "il", "sept", "est"]
+    answer: "il est sept heures"
+    explanation: "\"Il est\" + nombre + \"heures\" s'utilise pour donner l'heure."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"se laver\" pour \"tu\" ?"
+    options: ["je me lave", "tu te laves", "il se lave", "nous nous lavons"]
+    answer: "tu te laves"
+    explanation: "Le pronom réfléchi \"te\" correspond au sujet \"tu\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to do homework\" en français ?"
+    options: ["faire les courses", "faire ses devoirs", "faire la cuisine", "faire du sport"]
+    answer: "faire ses devoirs"
+    explanation: "\"Faire ses devoirs\" s'utilise pour parler du travail scolaire à la maison."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"in the evening\""
+    answer: ["le soir"]
+    explanation: "\"Le soir\" désigne la fin de la journée."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du verbe \"faire\" pour \"elle\" ?"
+    options: ["fais", "fait", "faisons", "font"]
+    answer: "fait"
+    explanation: "\"Elle fait\" est la troisième personne du singulier du verbe faire."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["me", "je", "tôt", "couche"]
+    answer: "je me couche tôt"
+    explanation: "\"Se coucher\" est un verbe pronominal ; \"tôt\" se place après le verbe."
+
+  - type: "choice"
+    prompt: "Quel pronom sujet correspond à \"we\" ?"
+    options: ["tu", "il", "nous", "ils"]
+    answer: "nous"
+    explanation: "\"Nous\" est le pronom sujet de la première personne du pluriel."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"the kitchen\""
+    answer: ["la cuisine"]
+    explanation: "\"La cuisine\" est la pièce où l'on prépare les repas."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"se lever\" pour \"ils\" ?"
+    options: ["je me lève", "il se lève", "ils se lèvent", "nous nous levons"]
+    answer: "ils se lèvent"
+    explanation: "Le pronom réfléchi \"se\" correspond au sujet \"ils\", avec le verbe à la troisième personne du pluriel."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"the house\" en français ?"
+    options: ["l'appartement", "la maison", "la chambre", "la cuisine"]
+    answer: "la maison"
+    explanation: "\"La maison\" désigne une habitation individuelle."

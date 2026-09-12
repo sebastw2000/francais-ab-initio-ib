@@ -1,0 +1,446 @@
+/* ============================================================
+   Español ab initio — skin "IB colorido"
+   Este archivo usa el punto de extensión oficial del tema
+   hugo-book (assets/styles/custom.css) y no modifica ningún
+   archivo dentro de themes/hugo-book/.
+   ============================================================ */
+
+:root,
+:root[data-theme="light"],
+:root[data-theme="auto"] {
+  --color-link: #1d6fd6;
+  --color-visited-link: #7b3fd1;
+
+  --color-accent-default:   #1d6fd6;
+  --color-accent-note:      #1d6fd6;
+  --color-accent-tip:       #1fa971;
+  --color-accent-important: #a24bd8;
+  --color-accent-warning:   #f0932b;
+  --color-accent-caution:   #e0524c;
+
+  --ib-blue:   #1d6fd6;
+  --ib-green:  #1fa971;
+  --ib-orange: #f0932b;
+  --ib-purple: #a24bd8;
+  --ib-pink:   #e0507f;
+  --ib-yellow: #f5c33b;
+
+  --ib-blue-bg:   #eaf2fd;
+  --ib-green-bg:  #e7f8f0;
+  --ib-orange-bg: #fef2e4;
+  --ib-purple-bg: #f6ebfc;
+  --ib-pink-bg:   #fdebf1;
+
+  --body-background-tint: linear-gradient(180deg, #f7faff 0%, #ffffff 260px);
+}
+
+/* Gentle tinted background so pages feel less like a plain wiki */
+body {
+  background-image: var(--body-background-tint);
+  background-repeat: no-repeat;
+}
+
+/* ---------- Sidebar ---------- */
+.book-menu .book-brand {
+  font-weight: 700;
+  color: var(--ib-blue);
+}
+
+.book-menu nav > ul > li > a {
+  border-radius: var(--border-radius);
+  font-weight: 600;
+}
+
+.book-menu nav > ul > li > a.active {
+  background: var(--ib-blue-bg);
+  color: var(--ib-blue);
+}
+
+.book-menu nav ul ul a.active {
+  color: var(--ib-blue);
+  font-weight: 600;
+}
+
+/* ---------- Headings ---------- */
+.markdown h1 {
+  color: #12294d;
+}
+
+.markdown h2 {
+  margin-top: 2.2em;
+  padding-left: 0.6em;
+  border-left: 0.3rem solid var(--ib-blue);
+  color: #12294d;
+}
+
+.markdown h3 {
+  color: var(--ib-purple);
+}
+
+/* ---------- Chapter hero image ---------- */
+.markdown > p:first-of-type > label.book-image:first-child {
+  display: block;
+  max-width: 260px;
+  margin: 0 auto 1.5rem auto;
+}
+
+.book-image img {
+  border-radius: 1rem;
+  background: white;
+  box-shadow: 0 6px 18px rgba(29, 111, 214, 0.15);
+}
+
+/* ---------- "Lecciones" button row (via {{< lessons >}} shortcode) ---------- */
+.lessons-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem 0;
+  padding: 0;
+}
+
+.lesson-btn {
+  flex: 1 1 8rem;
+  display: block;
+  text-align: center;
+  border-radius: 0.75rem;
+  padding: 0.9rem 0.5rem;
+  font-weight: 700;
+  border: none;
+  color: white !important;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  text-decoration: none !important;
+}
+
+.lesson-btn.btn-vocab     { background: var(--ib-blue); }
+.lesson-btn.btn-gramatica { background: var(--ib-green); }
+.lesson-btn.btn-practica  { background: var(--ib-orange); }
+.lesson-btn.btn-recursos  { background: var(--ib-purple); }
+.lesson-btn.btn-quiz      { background: var(--ib-pink); }
+
+.lesson-btn:hover {
+  filter: brightness(1.08);
+}
+
+/* ---------- Cards for Objetivo / Lo que aprenderás ---------- */
+.markdown h2:has(+ p):first-of-type {
+  border-left-color: var(--ib-blue);
+}
+
+/* Vocabulario section styling */
+.markdown table {
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.markdown table th {
+  background: var(--ib-blue-bg);
+  color: #12294d;
+}
+
+/* Checkbox lists (Lo que hicimos bien / Mi siguiente paso) look like a tracker */
+.markdown ul li:has(> input[type="checkbox"]) {
+  background: var(--ib-green-bg);
+  border-radius: 0.5rem;
+  padding: 0.35rem 0.6rem;
+  margin-bottom: 0.35rem;
+  list-style: none;
+}
+
+/* ============================================================
+   Quiz interactivo
+   ============================================================ */
+
+.quiz-app {
+  margin-top: 1.5rem;
+}
+
+.quiz-score-banner {
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  background: var(--ib-blue-bg);
+  border: 2px solid var(--ib-blue);
+  border-radius: 0.75rem;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  color: #12294d;
+}
+
+.quiz-score-banner.is-visible {
+  display: flex;
+}
+
+.quiz-question {
+  border: 1px solid var(--gray-200);
+  border-radius: 0.9rem;
+  padding: 1.1rem 1.25rem 1.3rem 1.25rem;
+  margin-bottom: 1.1rem;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.quiz-question-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.quiz-q-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.8rem;
+  height: 1.8rem;
+  border-radius: 50%;
+  background: var(--ib-blue);
+  color: white;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.quiz-q-type {
+  font-size: var(--font-size-smallest);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  padding: 0.15rem 0.55rem;
+  border-radius: 1rem;
+}
+
+.quiz-q-type.type-choice   { background: var(--ib-blue-bg);   color: var(--ib-blue); }
+.quiz-q-type.type-translate{ background: var(--ib-orange-bg); color: var(--ib-orange); }
+.quiz-q-type.type-order    { background: var(--ib-purple-bg); color: var(--ib-purple); }
+
+.quiz-prompt {
+  font-weight: 600;
+  margin-bottom: 0.7rem;
+}
+
+.quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.quiz-option {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  border: 1px solid var(--gray-200);
+  border-radius: 0.6rem;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+}
+
+.quiz-option:hover {
+  border-color: var(--ib-blue);
+}
+
+.quiz-option input {
+  margin: 0;
+}
+
+.quiz-translate-input {
+  width: 100%;
+  max-width: 22rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid var(--gray-200);
+  border-radius: 0.6rem;
+  font-size: 1rem;
+}
+
+.quiz-order-bank,
+.quiz-order-answer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  min-height: 2.6rem;
+  padding: 0.5rem;
+  border-radius: 0.6rem;
+}
+
+.quiz-order-bank {
+  background: var(--gray-100);
+  margin-bottom: 0.5rem;
+}
+
+.quiz-order-answer {
+  border: 2px dashed var(--gray-200);
+}
+
+.quiz-word-token {
+  background: white;
+  border: 1px solid var(--ib-blue);
+  color: var(--ib-blue);
+  border-radius: 0.5rem;
+  padding: 0.3rem 0.7rem;
+  font-weight: 600;
+  cursor: pointer;
+  user-select: none;
+}
+
+.quiz-word-token:hover {
+  background: var(--ib-blue-bg);
+}
+
+.quiz-order-answer .quiz-word-token {
+  background: var(--ib-blue);
+  color: white;
+}
+
+.quiz-q-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-top: 0.9rem;
+}
+
+.quiz-btn-check {
+  padding: 0.45rem 1.1rem;
+  font-size: var(--font-size-smaller);
+}
+
+.quiz-q-feedback {
+  font-weight: 700;
+  font-size: var(--font-size-smaller);
+}
+
+.quiz-q-feedback.is-correct-text {
+  color: var(--ib-green);
+}
+
+.quiz-q-feedback.is-incorrect-text {
+  color: var(--ib-caution, #e0524c);
+}
+
+.quiz-q-feedback.is-warning {
+  color: var(--ib-orange);
+}
+
+.quiz-explanation {
+  display: none;
+  margin-top: 0.7rem;
+  padding: 0.7rem 0.9rem;
+  border-radius: 0.6rem;
+  font-size: var(--font-size-smaller);
+  background: var(--gray-100);
+}
+
+.quiz-question.is-correct {
+  border-color: var(--ib-green);
+  background: var(--ib-green-bg);
+}
+
+.quiz-question.is-incorrect {
+  border-color: var(--ib-caution, #e0524c);
+  background: #fdecec;
+}
+
+.quiz-question.is-checked .quiz-explanation {
+  display: block;
+}
+
+.quiz-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.quiz-btn {
+  border: none;
+  border-radius: 0.6rem;
+  padding: 0.65rem 1.4rem;
+  font-weight: 700;
+  cursor: pointer;
+  color: white;
+  background: var(--ib-blue);
+}
+
+.quiz-btn.quiz-btn-secondary {
+  background: var(--gray-500);
+}
+
+.quiz-btn:hover {
+  filter: brightness(1.08);
+}
+
+/* ---------- Dark mode adjustments ---------- */
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="auto"] {
+    --body-background-tint: none;
+  }
+}
+
+:root[data-theme="dark"] {
+  --body-background-tint: none;
+}
+
+:root[data-theme="dark"] .quiz-question,
+:root[data-theme="dark"] .quiz-word-token,
+:root[data-theme="dark"] .quiz-translate-input {
+  background: var(--gray-100);
+  color: var(--body-font-color);
+}
+
+:root[data-theme="dark"] .book-image img {
+  background: var(--gray-100);
+}
+
+/* ============================================================
+   Selector de idioma (pagina de bienvenida)
+   ============================================================ */
+
+.lang-switch {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  margin: 0 0 2rem 0;
+}
+
+.lang-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 2px solid var(--ib-blue);
+  background: white;
+  color: var(--ib-blue);
+  border-radius: 2rem;
+  padding: 0.5rem 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.lang-btn .lang-flag {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.lang-btn:hover {
+  background: var(--ib-blue-bg);
+}
+
+.lang-btn.is-active {
+  background: var(--ib-blue);
+  color: white;
+}
+
+.lang-panel[hidden] {
+  display: none;
+}
+
+:root[data-theme="dark"] .lang-btn {
+  background: var(--gray-100);
+  color: var(--body-font-color);
+  border-color: var(--ib-blue);
+}
+
+:root[data-theme="dark"] .lang-btn.is-active {
+  background: var(--ib-blue);
+  color: white;
+}

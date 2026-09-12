@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Mon paradis sur terre">
+  <circle cx="120" cy="120" r="116" fill="#16a085"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#0e6151" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <circle cx="168" cy="72" r="20" fill="white"/>
+  <path d="M50 175l40-70 30 40 20-25 50 55z" fill="white"/>
+</svg>

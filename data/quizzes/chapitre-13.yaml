@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Comment dit-on \"to be afraid of\" en français ?"
+    options: ["avoir envie de", "avoir peur de", "avoir besoin de", "avoir le droit de"]
+    answer: "avoir peur de"
+    explanation: "\"Avoir peur de\" exprime la peur de quelque chose."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to have the right to\" en français ?"
+    options: ["avoir peur de", "avoir le droit de", "avoir envie de", "avoir besoin de"]
+    answer: "avoir le droit de"
+    explanation: "\"Avoir le droit de\" exprime une permission ou un droit."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I feel like going out\""
+    answer: ["j'ai envie de sortir"]
+    explanation: "\"Avoir envie de\" + infinitif exprime une envie."
+
+  - type: "choice"
+    prompt: "Que signifie \"il faut\" + infinitif ?"
+    options: ["it is forbidden to", "it is necessary to", "it is possible to", "it is useless to"]
+    answer: "it is necessary to"
+    explanation: "\"Il faut\" exprime une nécessité ou une obligation générale."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["tu", "sortir", "si", "veux", "on", "peut"]
+    answer: "si tu veux on peut sortir"
+    explanation: "\"Si\" + présent introduit une condition."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"friendship\" en français ?"
+    options: ["un stéréotype", "l'amitié", "un devoir", "un droit"]
+    answer: "l'amitié"
+    explanation: "\"L'amitié\" désigne la relation entre amis."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I never go out\""
+    answer: ["je ne sors jamais"]
+    explanation: "\"Ne...jamais\" exprime une négation totale dans le temps."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"nobody\" (négation) en français ?"
+    options: ["rien", "jamais", "personne", "pas"]
+    answer: "personne"
+    explanation: "\"Ne...personne\" signifie qu'il n'y a aucune personne."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"nothing\" (négation) en français ?"
+    options: ["rien", "jamais", "personne", "pas"]
+    answer: "rien"
+    explanation: "\"Ne...rien\" signifie qu'il n'y a aucune chose."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"before leaving\""
+    answer: ["avant de partir"]
+    explanation: "\"Avant de\" + infinitif exprime l'antériorité."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["comprends", "je", "la"]
+    answer: "je la comprends"
+    explanation: "\"La\" remplace une personne féminine déjà mentionnée."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a duty\" en français ?"
+    options: ["un droit", "un devoir", "un stéréotype", "une amitié"]
+    answer: "un devoir"
+    explanation: "\"Un devoir\" est une obligation."
+
+  - type: "choice"
+    prompt: "Quelle conjonction utilise-t-on pour exprimer une condition ?"
+    options: ["mais", "si", "donc", "parce que"]
+    answer: "si"
+    explanation: "\"Si\" introduit une condition."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I need to study\""
+    answer: ["j'ai besoin d'étudier", "j'ai besoin d etudier"]
+    explanation: "\"Avoir besoin de\" + infinitif exprime un besoin."
+
+  - type: "choice"
+    prompt: "Quel pronom remplace \"mon ami\" dans \"je respecte mon ami\" ?"
+    options: ["la", "le", "les", "y"]
+    answer: "le"
+    explanation: "\"Le\" remplace un nom masculin singulier."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["ne", "personne", "connais", "je"]
+    answer: "je ne connais personne"
+    explanation: "\"Ne...personne\" encadre le verbe."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a stereotype\" en français ?"
+    options: ["un droit", "un stéréotype", "un devoir", "une amitié"]
+    answer: "un stéréotype"
+    explanation: "\"Un stéréotype\" est une idée toute faite sur un groupe."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a young person\""
+    answer: ["un jeune", "une jeune"]
+    explanation: "\"Un/une jeune\" désigne une personne jeune."
+
+  - type: "choice"
+    prompt: "Structure de \"avant de\" :"
+    options: ["avant de + infinitif", "avant de + nom seulement", "avant de + verbe conjugué", "avant de + adjectif"]
+    answer: "avant de + infinitif"
+    explanation: "\"Avant de\" est toujours suivi d'un infinitif."
+
+  - type: "choice"
+    prompt: "Quel pronom remplace \"mes amies\" (féminin pluriel) ?"
+    options: ["le", "la", "les", "y"]
+    answer: "les"
+    explanation: "\"Les\" remplace un nom pluriel, masculin ou féminin."

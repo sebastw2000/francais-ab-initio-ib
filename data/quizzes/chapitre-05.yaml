@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Comment dit-on \"straight ahead\" en français ?"
+    options: ["à gauche", "à droite", "tout droit", "près de"]
+    answer: "tout droit"
+    explanation: "\"Tout droit\" s'utilise pour indiquer une direction sans tourner."
+
+  - type: "choice"
+    prompt: "Quelle préposition signifie \"in front of\" ?"
+    options: ["derrière", "devant", "sous", "entre"]
+    answer: "devant"
+    explanation: "\"Devant\" indique une position à l'avant de quelque chose."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"turn left\" (à quelqu'un que tu tutoies)"
+    answer: ["tourne à gauche"]
+    explanation: "\"Tourne\" est la forme impérative pour \"tu\"."
+
+  - type: "choice"
+    prompt: "Quelle est la forme impérative de \"prendre\" pour \"vous\" ?"
+    options: ["prends", "prenez", "prendre", "prenons"]
+    answer: "prenez"
+    explanation: "La forme \"vous\" de l'impératif garde la terminaison du présent."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["droite", "tournez", "à"]
+    answer: "tournez à droite"
+    explanation: "\"Tournez à droite\" est un ordre poli (vous)."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"the train station\" en français ?"
+    options: ["l'arrêt de bus", "la gare", "la banque", "la poste"]
+    answer: "la gare"
+    explanation: "\"La gare\" est l'endroit où l'on prend le train."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"next to the bank\""
+    answer: ["à côté de la banque"]
+    explanation: "\"À côté de\" indique une position proche."
+
+  - type: "choice"
+    prompt: "Quel adverbe signifie \"too much\" ?"
+    options: ["très", "trop", "assez", "un peu"]
+    answer: "trop"
+    explanation: "\"Trop\" exprime un excès."
+
+  - type: "choice"
+    prompt: "Quelle préposition signifie \"between\" ?"
+    options: ["sur", "sous", "entre", "en face de"]
+    answer: "entre"
+    explanation: "\"Entre\" indique une position au milieu de deux éléments."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to cross the street\""
+    answer: ["traverser la rue"]
+    explanation: "\"Traverser\" s'utilise pour passer d'un côté à l'autre."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["chemin", "demander", "va", "son", "il"]
+    answer: "il va demander son chemin"
+    explanation: "\"Demander son chemin\" s'utilise quand on est perdu."
+
+  - type: "choice"
+    prompt: "Quel est le participe passé de \"prendre\" ?"
+    options: ["prendu", "pris", "prend", "prenu"]
+    answer: "pris"
+    explanation: "\"Prendre\" a un participe passé irrégulier : \"pris\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"far from\" en français ?"
+    options: ["près de", "loin de", "à côté de", "devant"]
+    answer: "loin de"
+    explanation: "\"Loin de\" indique une grande distance."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"opposite the pharmacy\""
+    answer: ["en face de la pharmacie"]
+    explanation: "\"En face de\" indique une position opposée."
+
+  - type: "choice"
+    prompt: "Quelle est la forme impérative de \"aller\" pour \"tu\" ?"
+    options: ["vas", "va", "aller", "allez"]
+    answer: "va"
+    explanation: "L'impératif de \"aller\" pour \"tu\" perd le \"s\" final."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["métro", "prenez", "le"]
+    answer: "prenez le métro"
+    explanation: "\"Prenez\" est la forme impérative polie de \"prendre\"."
+
+  - type: "choice"
+    prompt: "Quel adverbe signifie \"quite / enough\" ?"
+    options: ["trop", "très", "assez", "vraiment"]
+    answer: "assez"
+    explanation: "\"Assez\" exprime une quantité suffisante."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a city map\""
+    answer: ["un plan de la ville"]
+    explanation: "\"Un plan de la ville\" aide à se repérer."
+
+  - type: "choice"
+    prompt: "Quelle préposition signifie \"under\" ?"
+    options: ["sur", "sous", "entre", "devant"]
+    answer: "sous"
+    explanation: "\"Sous\" indique une position en dessous."
+
+  - type: "choice"
+    prompt: "Quel est le participe passé de \"voir\" ?"
+    options: ["vu", "voyu", "vois", "voir"]
+    answer: "vu"
+    explanation: "\"Voir\" a un participe passé irrégulier : \"vu\"."

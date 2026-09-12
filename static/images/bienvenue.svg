@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Bienvenue">
+  <circle cx="120" cy="120" r="116" fill="#1d6fd6"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#124a94" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <!-- open book -->
+  <path d="M120 95c-14-10-38-14-56-9v78c18-5 42-1 56 9z" fill="white"/>
+  <path d="M120 95c14-10 38-14 56-9v78c-18-5-42-1-56 9z" fill="white" opacity="0.85"/>
+  <line x1="120" y1="95" x2="120" y2="173" stroke="#1d6fd6" stroke-width="3"/>
+
+  <!-- small tricolor ribbon accent, francophonie nod -->
+  <g transform="translate(103,48)">
+    <rect x="0" y="0" width="10" height="24" rx="2" fill="#ffffff"/>
+    <rect x="10" y="0" width="10" height="24" fill="#ffffff"/>
+    <rect x="0" y="0" width="6" height="24" rx="2" fill="#1d6fd6"/>
+    <rect x="24" y="0" width="6" height="24" rx="2" fill="#e1443b"/>
+  </g>
+</svg>

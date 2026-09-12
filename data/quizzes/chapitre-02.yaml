@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Quel est le féminin de \"grand\" ?"
+    options: ["grand", "grande", "grands", "grandes"]
+    answer: "grande"
+    explanation: "On ajoute -e pour former le féminin de \"grand\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to wear\" en français ?"
+    options: ["aimer", "porter", "détester", "finir"]
+    answer: "porter"
+    explanation: "\"Porter\" s'utilise pour parler des vêtements que l'on porte."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"she has long hair\""
+    answer: ["elle a les cheveux longs"]
+    explanation: "\"Elle a les cheveux longs\" utilise avoir + article + nom + adjectif au pluriel."
+
+  - type: "choice"
+    prompt: "Quelle est la forme négative de \"je suis grand\" ?"
+    options: ["je suis pas grand", "je ne suis pas grand", "je ne suis grand pas", "ne je suis pas grand"]
+    answer: "je ne suis pas grand"
+    explanation: "La négation encadre le verbe : ne + verbe + pas."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["porte", "elle", "pull", "un", "rouge"]
+    answer: "elle porte un pull rouge"
+    explanation: "L'ordre est : sujet + verbe + article + nom + adjectif."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"finir\" pour \"nous\" ?"
+    options: ["finis", "finit", "finissons", "finissent"]
+    answer: "finissons"
+    explanation: "Les verbes en -ir prennent -issons à la première personne du pluriel."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"he is not shy\""
+    answer: ["il n'est pas timide", "il n est pas timide"]
+    explanation: "La négation \"n'...pas\" s'utilise devant une voyelle."
+
+  - type: "choice"
+    prompt: "Quel adjectif se place généralement avant le nom ?"
+    options: ["sympathique", "petit", "intéressant", "sérieux"]
+    answer: "petit"
+    explanation: "\"Petit\" fait partie des adjectifs courts qui précèdent le nom."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"attendre\" pour \"tu\" ?"
+    options: ["attends", "attend", "attendons", "attendent"]
+    answer: "attends"
+    explanation: "Les verbes en -re prennent -s à la deuxième personne du singulier."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"funny\" (au féminin)"
+    answer: ["drôle"]
+    explanation: "\"Drôle\" a la même forme au masculin et au féminin."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["pas", "aime", "sport", "le", "elle", "n'"]
+    answer: "elle n'aime pas le sport"
+    explanation: "La négation encadre le verbe : n'...pas."
+
+  - type: "choice"
+    prompt: "Quel est le pluriel de \"un pull rouge\" ?"
+    options: ["des pulls rouge", "des pulls rouges", "des pull rouges", "des pulles rouges"]
+    answer: "des pulls rouges"
+    explanation: "Le nom et l'adjectif prennent tous les deux un -s au pluriel."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"shy\" en français ?"
+    options: ["bavard", "timide", "drôle", "sérieux"]
+    answer: "timide"
+    explanation: "\"Timide\" décrit une personne réservée."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I like fashion\""
+    answer: ["j'aime la mode"]
+    explanation: "\"J'aime\" + article + nom s'utilise pour exprimer une préférence."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"finir\" pour \"ils\" ?"
+    options: ["finit", "finis", "finissons", "finissent"]
+    answer: "finissent"
+    explanation: "Les verbes en -ir prennent -issent à la troisième personne du pluriel."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["yeux", "a", "les", "elle", "bleus"]
+    answer: "elle a les yeux bleus"
+    explanation: "L'adjectif de couleur s'accorde avec le nom pluriel \"yeux\"."
+
+  - type: "choice"
+    prompt: "Quel est le féminin de \"sérieux\" ?"
+    options: ["sérieuse", "sérieux", "sérieuxe", "sérieuze"]
+    answer: "sérieuse"
+    explanation: "Les adjectifs en -eux font leur féminin en -euse."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"talkative\" (au masculin)"
+    answer: ["bavard"]
+    explanation: "\"Bavard\" décrit une personne qui parle beaucoup."
+
+  - type: "choice"
+    prompt: "Où place-t-on généralement l'adjectif \"intéressant\" ?"
+    options: ["avant le nom", "après le nom", "au milieu du nom", "avant et après"]
+    answer: "après le nom"
+    explanation: "La plupart des adjectifs longs se placent après le nom."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"attendre\" pour \"elles\" ?"
+    options: ["attend", "attends", "attendons", "attendent"]
+    answer: "attendent"
+    explanation: "Les verbes en -re prennent -ent à la troisième personne du pluriel."

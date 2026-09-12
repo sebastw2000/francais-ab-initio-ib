@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Que remplace le pronom \"y\" dans \"j'y vais\" ?"
+    options: ["une personne", "un lieu", "un objet direct", "un adjectif"]
+    answer: "un lieu"
+    explanation: "\"Y\" remplace un lieu déjà mentionné."
+
+  - type: "choice"
+    prompt: "Quel pronom remplace \"le pull\" (masculin) dans \"je prends le pull\" ?"
+    options: ["la", "le", "les", "y"]
+    answer: "le"
+    explanation: "\"Le\" remplace un nom masculin singulier."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I buy it\" (une robe, féminin)"
+    answer: ["je l'achète"]
+    explanation: "\"La\" devient \"l'\" devant une voyelle."
+
+  - type: "choice"
+    prompt: "Quel pronom remplace \"les chaussures\" (pluriel) ?"
+    options: ["le", "la", "les", "y"]
+    answer: "les"
+    explanation: "\"Les\" remplace un nom pluriel."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["vais", "y", "j'"]
+    answer: "j'y vais"
+    explanation: "\"Y\" se place avant le verbe conjugué."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a shopping mall\" en français ?"
+    options: ["un magasin", "un centre commercial", "une caisse", "un colis"]
+    answer: "un centre commercial"
+    explanation: "\"Un centre commercial\" regroupe plusieurs magasins."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to order online\""
+    answer: ["commander en ligne"]
+    explanation: "\"Commander en ligne\" s'utilise pour les achats sur Internet."
+
+  - type: "choice"
+    prompt: "Comment remplace-t-on l'impératif dans les instructions écrites ?"
+    options: ["par le présent", "par l'infinitif", "par le futur", "par le conditionnel"]
+    answer: "par l'infinitif"
+    explanation: "Les instructions écrites utilisent souvent l'infinitif."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to pay\" en français ?"
+    options: ["acheter", "vendre", "payer", "échanger"]
+    answer: "payer"
+    explanation: "\"Payer\" s'utilise pour régler un achat."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a package\""
+    answer: ["un colis"]
+    explanation: "\"Un colis\" est envoyé lors d'une livraison."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["achète", "les", "je"]
+    answer: "je les achète"
+    explanation: "\"Les\" remplace un complément d'objet direct pluriel."
+
+  - type: "choice"
+    prompt: "Quel pronom relatif complèterait \"le magasin ___ j'achète mes vêtements\" ?"
+    options: ["qui", "que", "où", "y"]
+    answer: "où"
+    explanation: "\"Où\" remplace un lieu."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a bank card\" en français ?"
+    options: ["un colis", "une carte bancaire", "un prix", "une caisse"]
+    answer: "une carte bancaire"
+    explanation: "\"Une carte bancaire\" sert à payer électroniquement."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to try on (clothes)\""
+    answer: ["essayer"]
+    explanation: "\"Essayer\" s'utilise avant d'acheter un vêtement."
+
+  - type: "choice"
+    prompt: "\"Ajouter au panier\" utilise quelle forme verbale ?"
+    options: ["l'impératif", "l'infinitif", "le futur", "le passé composé"]
+    answer: "l'infinitif"
+    explanation: "Les instructions de sites web utilisent l'infinitif."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["veux", "la", "je"]
+    answer: "je la veux"
+    explanation: "\"La\" remplace un complément d'objet direct féminin singulier."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"to deliver\" en français ?"
+    options: ["commander", "livrer", "échanger", "rembourser"]
+    answer: "livrer"
+    explanation: "\"Livrer\" s'utilise pour apporter un colis à quelqu'un."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"the price\""
+    answer: ["le prix"]
+    explanation: "\"Le prix\" indique combien coûte un article."
+
+  - type: "choice"
+    prompt: "Quel pronom relatif complèterait \"le vendeur ___ m'a aidé\" ?"
+    options: ["qui", "que", "où", "y"]
+    answer: "qui"
+    explanation: "\"Qui\" remplace le sujet \"le vendeur\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"the checkout\" (dans un magasin) en français ?"
+    options: ["le magasin", "la caisse", "le prix", "le colis"]
+    answer: "la caisse"
+    explanation: "\"La caisse\" est l'endroit où l'on paie."

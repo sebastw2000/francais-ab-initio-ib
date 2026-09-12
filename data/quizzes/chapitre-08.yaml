@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Quelle préposition utilise-t-on avec un pays féminin, comme \"France\" ?"
+    options: ["au", "en", "aux", "à"]
+    answer: "en"
+    explanation: "\"En\" s'utilise devant un pays féminin."
+
+  - type: "choice"
+    prompt: "Quelle préposition utilise-t-on avec un pays masculin, comme \"Canada\" ?"
+    options: ["en", "au", "aux", "à"]
+    answer: "au"
+    explanation: "\"Au\" s'utilise devant un pays masculin."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I will travel to Canada\""
+    answer: ["je voyagerai au canada"]
+    explanation: "Le futur simple de \"voyager\" + \"au Canada\"."
+
+  - type: "choice"
+    prompt: "Quel est le futur simple de \"aller\" pour \"je\" ?"
+    options: ["je vais", "j'irai", "j'aille", "j'allerai"]
+    answer: "j'irai"
+    explanation: "\"Aller\" a un radical irrégulier au futur : \"ir-\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["le", "plus", "hôtel", "cher", "l'"]
+    answer: "l'hôtel le plus cher"
+    explanation: "Le superlatif se forme avec \"le/la plus\" + adjectif."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a plane ticket\" en français ?"
+    options: ["un billet de train", "un billet d'avion", "une valise", "une auberge"]
+    answer: "un billet d'avion"
+    explanation: "\"Un billet d'avion\" est nécessaire pour voyager en avion."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"the most beautiful city\""
+    answer: ["la plus belle ville"]
+    explanation: "\"La plus belle\" est le superlatif féminin de \"beau\"."
+
+  - type: "choice"
+    prompt: "Quel est le futur simple de \"faire\" pour \"nous\" ?"
+    options: ["nous ferons", "nous faisons", "nous ferions", "nous faisont"]
+    answer: "nous ferons"
+    explanation: "\"Faire\" a un radical irrégulier au futur : \"fer-\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a youth hostel\" en français ?"
+    options: ["un hôtel", "une auberge de jeunesse", "un camping", "une attraction"]
+    answer: "une auberge de jeunesse"
+    explanation: "\"Une auberge de jeunesse\" est un logement économique pour les jeunes."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"the cheapest hotel\""
+    answer: ["l'hôtel le moins cher"]
+    explanation: "\"Le moins cher\" est le superlatif d'infériorité."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["voyage", "avion", "en", "je"]
+    answer: "je voyage en avion"
+    explanation: "\"En avion\" indique le moyen de transport."
+
+  - type: "choice"
+    prompt: "Quel est le futur simple de \"être\" pour \"ils\" ?"
+    options: ["ils sont", "ils seront", "ils étaient", "ils serai"]
+    answer: "ils seront"
+    explanation: "\"Être\" a un radical irrégulier au futur : \"ser-\"."
+
+  - type: "choice"
+    prompt: "Quelle préposition utilise-t-on avec un pays pluriel, comme \"États-Unis\" ?"
+    options: ["en", "au", "aux", "à"]
+    answer: "aux"
+    explanation: "\"Aux\" s'utilise devant un pays au nom pluriel."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to book a hotel\""
+    answer: ["réserver un hôtel"]
+    explanation: "\"Réserver\" s'utilise pour organiser un logement à l'avance."
+
+  - type: "choice"
+    prompt: "Quel est le futur simple de \"avoir\" pour \"tu\" ?"
+    options: ["tu as", "tu auras", "tu avais", "tu aies"]
+    answer: "tu auras"
+    explanation: "\"Avoir\" a un radical irrégulier au futur : \"aur-\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["visiterons", "monument", "ce", "nous"]
+    answer: "nous visiterons ce monument"
+    explanation: "\"Visiterons\" est la première personne du pluriel du futur simple."
+
+  - type: "choice"
+    prompt: "Quel est le futur simple de \"pouvoir\" pour \"je\" ?"
+    options: ["je peux", "je pourrai", "je pouvais", "je puisse"]
+    answer: "je pourrai"
+    explanation: "\"Pouvoir\" a un radical irrégulier au futur : \"pourr-\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"to camp\""
+    answer: ["camper"]
+    explanation: "\"Camper\" s'utilise pour dormir sous une tente."
+
+  - type: "choice"
+    prompt: "Comment forme-t-on le futur simple des verbes réguliers en -er ?"
+    options: ["infinitif + terminaisons", "radical + -ais", "avoir + participe passé", "être + participe passé"]
+    answer: "infinitif + terminaisons"
+    explanation: "Les verbes réguliers gardent l'infinitif complet comme radical."
+
+  - type: "choice"
+    prompt: "Quel est le futur simple de \"voir\" pour \"elle\" ?"
+    options: ["elle voit", "elle verra", "elle voyait", "elle voie"]
+    answer: "elle verra"
+    explanation: "\"Voir\" a un radical irrégulier au futur : \"verr-\"."

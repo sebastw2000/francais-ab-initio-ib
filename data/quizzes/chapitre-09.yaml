@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Comment dit-on \"a subject\" (à l'école) en français ?"
+    options: ["un élève", "une matière", "un devoir", "un examen"]
+    answer: "une matière"
+    explanation: "\"Une matière\" désigne un domaine d'étude comme les maths ou l'histoire."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte du conditionnel de \"vouloir\" pour \"je\" ?"
+    options: ["je veux", "je voudrais", "je voulais", "je veuille"]
+    answer: "je voudrais"
+    explanation: "\"Voudrais\" est le conditionnel présent de \"vouloir\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I would like to ask a question\""
+    answer: ["je voudrais poser une question"]
+    explanation: "\"Je voudrais\" exprime un souhait poli."
+
+  - type: "choice"
+    prompt: "Quel mot interrogatif utilise-t-on pour demander une raison ?"
+    options: ["comment", "pourquoi", "quand", "où"]
+    answer: "pourquoi"
+    explanation: "\"Pourquoi\" sert à demander une explication."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["pourrais", "tu", "aider", "m'"]
+    answer: "tu pourrais m'aider"
+    explanation: "\"Pourrais\" est le conditionnel de \"pouvoir\" pour \"tu\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a teacher\" en français ?"
+    options: ["un élève", "un professeur", "un devoir", "une règle"]
+    answer: "un professeur"
+    explanation: "\"Un professeur\" enseigne une matière."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"he should study more\""
+    answer: ["il devrait étudier plus"]
+    explanation: "\"Devrait\" est le conditionnel de \"devoir\", exprime un conseil."
+
+  - type: "choice"
+    prompt: "Quel mot interrogatif utilise-t-on pour demander une quantité ?"
+    options: ["combien", "comment", "quel", "qui"]
+    answer: "combien"
+    explanation: "\"Combien\" s'utilise pour demander un nombre ou une quantité."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"pouvoir\" au présent pour \"nous\" ?"
+    options: ["nous pouvons", "nous pourrions", "nous pouvions", "nous puissions"]
+    answer: "nous pouvons"
+    explanation: "\"Nous pouvons\" est la première personne du pluriel du présent."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"an exam\""
+    answer: ["un examen"]
+    explanation: "\"Un examen\" évalue les connaissances des élèves."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["récréation", "aime", "la", "j'"]
+    answer: "j'aime la récréation"
+    explanation: "\"La récréation\" est la pause entre les cours."
+
+  - type: "choice"
+    prompt: "Comment forme-t-on le conditionnel présent ?"
+    options: ["radical du futur + terminaisons de l'imparfait", "présent + -ais", "infinitif + avoir", "participe passé + être"]
+    answer: "radical du futur + terminaisons de l'imparfait"
+    explanation: "Le conditionnel combine le radical du futur et les terminaisons de l'imparfait."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"forbidden\" en français ?"
+    options: ["autorisé", "interdit", "obligatoire", "facile"]
+    answer: "interdit"
+    explanation: "\"Interdit\" signifie que quelque chose n'est pas permis."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"an extracurricular activity\""
+    answer: ["une activité extrascolaire"]
+    explanation: "\"Une activité extrascolaire\" a lieu en dehors des cours normaux."
+
+  - type: "choice"
+    prompt: "Quel mot interrogatif utilise-t-on pour choisir parmi des options ?"
+    options: ["quel", "comment", "pourquoi", "combien"]
+    answer: "quel"
+    explanation: "\"Quel\" s'accorde avec le nom et sert à choisir."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["devrais", "tu", "plus", "étudier"]
+    answer: "tu devrais étudier plus"
+    explanation: "\"Devrais\" exprime un conseil au conditionnel."
+
+  - type: "choice"
+    prompt: "Quelle est la forme correcte de \"pouvoir\" au conditionnel pour \"elle\" ?"
+    options: ["elle peut", "elle pourrait", "elle pouvait", "elle puisse"]
+    answer: "elle pourrait"
+    explanation: "\"Pourrait\" est le conditionnel de \"pouvoir\" pour \"elle\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"the rules\""
+    answer: ["le règlement", "les règles"]
+    explanation: "\"Le règlement\" ou \"les règles\" désignent les règles de l'école."
+
+  - type: "choice"
+    prompt: "Quel pronom relatif complèterait \"le professeur ___ enseigne les maths\" ?"
+    options: ["que", "qui", "où", "depuis"]
+    answer: "qui"
+    explanation: "\"Qui\" remplace le sujet \"le professeur\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a student\" en français ?"
+    options: ["un professeur", "un élève", "un examen", "un devoir"]
+    answer: "un élève"
+    explanation: "\"Un élève\" est une personne qui étudie au lycée."

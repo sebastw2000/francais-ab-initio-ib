@@ -1,0 +1,115 @@
+questions:
+  - type: "choice"
+    prompt: "Comment dit-on \"the weather is nice\" en français ?"
+    options: ["il pleut", "il fait beau", "il neige", "il fait froid"]
+    answer: "il fait beau"
+    explanation: "\"Il fait beau\" décrit un temps agréable."
+
+  - type: "choice"
+    prompt: "Quel pronom relatif utilise-t-on pour un lieu ?"
+    options: ["qui", "que", "où", "dont"]
+    answer: "où"
+    explanation: "\"Où\" remplace un lieu dans une phrase."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"I went to the mountains\""
+    answer: ["je suis allé à la montagne", "je suis allée à la montagne"]
+    explanation: "\"Aller\" utilise l'auxiliaire \"être\" au passé composé."
+
+  - type: "choice"
+    prompt: "Quel auxiliaire utilise-t-on avec le verbe \"partir\" au passé composé ?"
+    options: ["avoir", "être", "faire", "aller"]
+    answer: "être"
+    explanation: "\"Partir\" est un verbe de mouvement qui utilise \"être\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["plus", "il", "grand", "que", "moi", "est"]
+    answer: "il est plus grand que moi"
+    explanation: "La structure du comparatif est : plus + adjectif + que."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"it's snowing\" en français ?"
+    options: ["il pleut", "il neige", "il fait beau", "il fait chaud"]
+    answer: "il neige"
+    explanation: "\"Il neige\" décrit la chute de neige."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"happily\" (adverbe)"
+    answer: ["heureusement"]
+    explanation: "\"Heureusement\" vient de l'adjectif féminin \"heureuse\"."
+
+  - type: "choice"
+    prompt: "Quel est le participe passé de \"aller\" ?"
+    options: ["allé", "aller", "va", "allant"]
+    answer: "allé"
+    explanation: "\"Aller\" a un participe passé régulier : \"allé\"."
+
+  - type: "choice"
+    prompt: "Avec le verbe \"être\" au passé composé, le participe passé s'accorde avec :"
+    options: ["le complément", "le sujet", "l'auxiliaire", "rien"]
+    answer: "le sujet"
+    explanation: "L'accord se fait en genre et en nombre avec le sujet."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a beach\""
+    answer: ["une plage"]
+    explanation: "\"Une plage\" est un nom féminin."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["née", "suis", "je", "à", "Paris"]
+    answer: "je suis née à Paris"
+    explanation: "\"Née\" s'accorde au féminin avec le sujet."
+
+  - type: "choice"
+    prompt: "Quel adjectif donne l'adverbe \"rapidement\" ?"
+    options: ["rapide", "rapidement", "rapido", "rapidité"]
+    answer: "rapide"
+    explanation: "L'adverbe se forme à partir de l'adjectif \"rapide\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a mountain\" en français ?"
+    options: ["une plage", "un lac", "une montagne", "une forêt"]
+    answer: "une montagne"
+    explanation: "\"Une montagne\" est un nom féminin."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"easily\" (adverbe)"
+    answer: ["facilement"]
+    explanation: "\"Facilement\" vient de l'adjectif féminin \"facile\"."
+
+  - type: "choice"
+    prompt: "Quel verbe utilise \"être\" au passé composé ?"
+    options: ["manger", "finir", "arriver", "parler"]
+    answer: "arriver"
+    explanation: "\"Arriver\" est un verbe de mouvement qui utilise \"être\"."
+
+  - type: "order"
+    prompt: "Ordonne les mots pour former une phrase correcte :"
+    words: ["voyage", "un", "fait", "j'ai"]
+    answer: "j'ai fait un voyage"
+    explanation: "\"Faire\" utilise l'auxiliaire \"avoir\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"as...as\" (comparatif d'égalité) ?"
+    options: ["plus...que", "moins...que", "aussi...que", "très...que"]
+    answer: "aussi...que"
+    explanation: "Le comparatif d'égalité se forme avec \"aussi...que\"."
+
+  - type: "translate"
+    prompt: "Traduis en français : \"a festival\""
+    answer: ["un festival"]
+    explanation: "\"Un festival\" est un nom masculin."
+
+  - type: "choice"
+    prompt: "Quel est le participe passé de \"venir\" ?"
+    options: ["venu", "venir", "vient", "venant"]
+    answer: "venu"
+    explanation: "\"Venir\" a un participe passé irrégulier : \"venu\"."
+
+  - type: "choice"
+    prompt: "Comment dit-on \"a forest\" en français ?"
+    options: ["une plage", "une forêt", "un lac", "une montagne"]
+    answer: "une forêt"
+    explanation: "\"Une forêt\" est un nom féminin."

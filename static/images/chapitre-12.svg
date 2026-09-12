@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="L'évolution du shopping">
+  <circle cx="120" cy="120" r="116" fill="#27ae60"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#186a3a" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <path d="M80 100h80l-8 70a10 10 0 01-10 9H98a10 10 0 01-10-9z" fill="white"/>
+  <path d="M95 100v-15a25 25 0 0150 0v15" fill="none" stroke="white" stroke-width="8"/>
+</svg>

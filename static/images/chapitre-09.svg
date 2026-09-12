@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Au lycée">
+  <circle cx="120" cy="120" r="116" fill="#34495e"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#202b36" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <path d="M60 100c0-8 8-14 60-14s60 6 60 14-8 14-60 14-60-6-60-14z" fill="white"/>
+  <path d="M75 108v35c0 8 20 14 45 14s45-6 45-14v-35" fill="none" stroke="white" stroke-width="6"/>
+  <line x1="185" y1="102" x2="185" y2="140" stroke="white" stroke-width="5"/>
+</svg>

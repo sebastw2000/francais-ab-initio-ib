@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Nous, les jeunes">
+  <circle cx="120" cy="120" r="116" fill="#f39c12"/>
+  <circle cx="120" cy="120" r="116" fill="none" stroke="#9c6408" stroke-width="3" opacity="0.25"/>
+  <circle cx="40" cy="55" r="7" fill="white" opacity="0.25"/>
+  <circle cx="205" cy="70" r="5" fill="white" opacity="0.25"/>
+  <circle cx="195" cy="190" r="9" fill="white" opacity="0.2"/>
+
+  <circle cx="98" cy="100" r="24" fill="white"/>
+  <path d="M55 178c6-28 26-42 43-42s37 14 43 42c-14 10-30 16-43 16s-29-6-43-16z" fill="white"/>
+  <circle cx="150" cy="105" r="20" fill="white" opacity="0.85"/>
+  <path d="M118 178c5-22 20-33 32-33s26 11 30 28" fill="none" stroke="white" stroke-width="0" opacity="0"/>
+</svg>
