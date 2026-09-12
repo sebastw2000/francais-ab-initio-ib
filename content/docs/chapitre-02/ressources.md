@@ -5,4 +5,4 @@ weight: 4
 
 ## Matériel téléchargeable
 
-{{< youtube tCd_4uCD5eo >}}
+Il n'y a pas encore d'autres ressources pour ce chapitre
