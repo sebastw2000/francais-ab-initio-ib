@@ -5,6 +5,8 @@ weight: 140
 
 {{< image src="/images/chapitre-13.svg" alt="Nous, les jeunes" >}}
 
+## 🪪 IDENTITÉS
+
 ## Objectif
 
 Parler des droits et des devoirs des jeunes, de l'amitié et des stéréotypes en utilisant les expressions avec "avoir" et la conjonction "si".

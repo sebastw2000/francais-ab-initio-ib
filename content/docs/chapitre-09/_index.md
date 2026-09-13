@@ -5,6 +5,8 @@ weight: 100
 
 {{< image src="/images/chapitre-09.svg" alt="Au lycée" >}}
 
+## 🏛️ ORGANISATION SOCIALE
+
 ## Objectif
 
 Parler de la vie scolaire, poser des questions et exprimer des souhaits polis en utilisant le conditionnel.

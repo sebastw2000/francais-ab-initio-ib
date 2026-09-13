@@ -5,6 +5,8 @@ weight: 40
 
 {{< image src="/images/chapitre-03.svg" alt="La vie quotidienne" >}}
 
+## 🎒 EXPÉRIENCES
+
 ## Objectif
 
 Parler de sa routine quotidienne et de sa maison en utilisant les verbes "aller" et "faire", les verbes pronominaux et le futur proche.

@@ -5,6 +5,8 @@ weight: 60
 
 {{< image src="/images/chapitre-05.svg" alt="En ville" >}}
 
+## 🏛️ ORGANISATION SOCIALE
+
 ## Objectif
 
 Demander et donner des directions en ville en utilisant l'impératif et les prépositions de lieu.

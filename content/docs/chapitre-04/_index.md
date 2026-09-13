@@ -5,6 +5,8 @@ weight: 50
 
 {{< image src="/images/chapitre-04.svg" alt="Bon appétit !" >}}
 
+## 🪪 IDENTITÉS
+
 ## Objectif
 
 Parler des repas, faire des achats alimentaires et raconter ce que tu as mangé en utilisant les articles partitifs et le passé composé.

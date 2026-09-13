@@ -5,6 +5,8 @@ weight: 120
 
 {{< image src="/images/chapitre-11.svg" alt="La santé pour tous" >}}
 
+## 🪪 IDENTITÉS · 🏛️ ORGANISATION SOCIALE
+
 ## Objectif
 
 Parler de la santé, décrire des symptômes et raconter des habitudes passées en utilisant l'imparfait et le passé composé.

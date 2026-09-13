@@ -5,6 +5,8 @@ weight: 20
 
 {{< image src="/images/chapitre-01.svg" alt="Je me présente" >}}
 
+## 🪪 IDENTITÉS
+
 ## Objectif
 
 Se présenter et parler de sa famille en utilisant les verbes "être" et "avoir" et les verbes réguliers en -er.

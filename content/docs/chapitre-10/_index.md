@@ -5,6 +5,8 @@ weight: 110
 
 {{< image src="/images/chapitre-10.svg" alt="Faites la fête !" >}}
 
+## 🎒 EXPÉRIENCES · 🪪 IDENTITÉS · 🏛️ ORGANISATION SOCIALE
+
 ## Objectif
 
 Parler des fêtes et des traditions et exprimer des obligations et des souhaits en utilisant les pronoms toniques et les verbes devoir/pouvoir/vouloir.

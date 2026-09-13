@@ -5,6 +5,8 @@ weight: 150
 
 {{< image src="/images/chapitre-14.svg" alt="Le français dans le monde" >}}
 
+## 🌍 PARTAGE DE LA PLANÈTE · 🪪 IDENTITÉS · 🎒 EXPÉRIENCES
+
 ## Objectif
 
 Faire une révision cumulative des temps et des structures du cours en parlant de la francophonie dans le monde.

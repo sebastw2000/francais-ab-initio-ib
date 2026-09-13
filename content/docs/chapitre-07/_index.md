@@ -5,6 +5,8 @@ weight: 80
 
 {{< image src="/images/chapitre-07.svg" alt="Temps libre" >}}
 
+## 🎒 EXPÉRIENCES
+
 ## Objectif
 
 Parler de tes loisirs et de tes activités préférées en utilisant "depuis", les pronoms relatifs et les verbes suivis de prépositions.

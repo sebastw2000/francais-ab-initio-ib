@@ -5,6 +5,8 @@ weight: 30
 
 {{< image src="/images/chapitre-02.svg" alt="Tu es comment ?" >}}
 
+## 🪪 IDENTITÉS
+
 ## Objectif
 
 Décrire l'apparence physique, la personnalité et les vêtements d'une personne en utilisant l'accord des adjectifs et la négation.

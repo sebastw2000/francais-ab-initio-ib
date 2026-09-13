@@ -5,6 +5,8 @@ weight: 90
 
 {{< image src="/images/chapitre-08.svg" alt="Projets de vacances" >}}
 
+## 🎒 EXPÉRIENCES · 💡 INGÉNIOSITÉ HUMAINE · 🌍 PARTAGE DE LA PLANÈTE
+
 ## Objectif
 
 Parler de projets de vacances futurs en utilisant le futur simple et le superlatif.

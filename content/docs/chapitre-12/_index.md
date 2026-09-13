@@ -5,6 +5,8 @@ weight: 130
 
 {{< image src="/images/chapitre-12.svg" alt="L'évolution du shopping" >}}
 
+## 🎒 EXPÉRIENCES · 💡 INGÉNIOSITÉ HUMAINE · 🌍 PARTAGE DE LA PLANÈTE
+
 ## Objectif
 
 Parler des achats, en ligne et en magasin, en utilisant le pronom "y" et les pronoms compléments d'objet direct.
