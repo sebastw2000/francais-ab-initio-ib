@@ -17,14 +17,14 @@ Parler de projets de vacances futurs en utilisant le futur simple et le superlat
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Vacances : l'hébergement
-- Loisirs : les activités de vacances
-- Transports : les moyens de transport
-- Divertissements : les attractions et les spectacles
-- Géographie physique : les pays
-- Climat : la météo
+- L'hébergement
+- Les activités de vacances
+- Les moyens de transport
+- Les attractions et les spectacles
+- Les pays
+- La météo
 
 **Grammaire**
 

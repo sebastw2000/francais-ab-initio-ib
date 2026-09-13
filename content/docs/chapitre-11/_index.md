@@ -15,12 +15,16 @@ Parler de la santé, décrire des symptômes et raconter des habitudes passées 
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Bien-être physique : la santé, le corps, les maladies
-- La forme physique, les accidents
-- Aliments et boissons : le régime alimentaire
-- Lieu de travail : les métiers de la santé, chez le médecin
+- La santé
+- Le corps
+- Les maladies
+- La forme physique
+- Les accidents
+- Le régime alimentaire
+- Les métiers de la santé
+- Chez le médecin
 
 **Grammaire**
 

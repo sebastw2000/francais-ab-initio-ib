@@ -13,9 +13,10 @@ Décrire l'apparence physique, la personnalité et les vêtements d'une personne
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Caractéristiques personnelles : l'apparence (le corps, le portrait physique)
+- Les renseignements personnels
+- L'apparence : le corps, le portrait physique
 - L'apparence : les vêtements, les couleurs
 - Le caractère : la personnalité, les goûts
 

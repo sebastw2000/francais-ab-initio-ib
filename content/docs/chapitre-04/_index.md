@@ -13,9 +13,9 @@ Parler des repas, faire des achats alimentaires et raconter ce que tu as mangé 
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Aliments et boissons : les repas, les recettes de cuisine, les traditions culinaires
+- Les repas, les recettes de cuisine, les traditions culinaires
 - Les achats : les courses, les commerces, le marché
 - Les restaurants
 - Les nombres de 60 à 2 000

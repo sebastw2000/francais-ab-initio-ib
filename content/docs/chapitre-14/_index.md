@@ -17,12 +17,14 @@ Faire une révision cumulative des temps et des structures du cours en parlant d
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Géographie physique : le climat
-- Questions mondiales : l'historique de la francophonie
-- Caractéristiques personnelles : les renseignements personnels, l'apparence, le caractère
-- Habitudes quotidiennes : la vie quotidienne des jeunes francophones
+- Le climat
+- L'historique de la francophonie
+- Les renseignements personnels
+- L'apparence
+- Le caractère
+- La vie quotidienne des jeunes francophones
 
 **Grammaire**
 

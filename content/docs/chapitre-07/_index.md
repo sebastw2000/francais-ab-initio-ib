@@ -13,9 +13,12 @@ Parler de tes loisirs et de tes activités préférées en utilisant "depuis", l
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Loisirs : la télévision, la musique, le sport
+- La télévision
+- La musique
+- Le sport
+- Les activités de loisirs
 
 **Grammaire**
 

@@ -15,10 +15,12 @@ Demander et donner des directions en ville en utilisant l'impératif et les pré
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Voisinage : la ville, les services
+- La ville
+- Les services
 - Les directions
+- Les transports en commun
 
 **Grammaire**
 

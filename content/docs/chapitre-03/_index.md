@@ -13,10 +13,12 @@ Parler de sa routine quotidienne et de sa maison en utilisant les verbes "aller"
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Habitudes quotidiennes : l'heure, les jours de la semaine
-- La maison, la routine à la maison
+- L'heure
+- Les jours de la semaine
+- La maison
+- La routine à la maison
 - Les nombres de 30 à 60
 
 **Grammaire**

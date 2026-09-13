@@ -17,12 +17,14 @@ Parler des achats, en ligne et en magasin, en utilisant le pronom "y" et les pro
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Habitudes quotidiennes : les achats, les différents magasins
-- Les transactions, les fractions
-- Technologie : les achats en ligne
-- Environnement : la ville et les services
+- Les achats
+- Les différents magasins
+- Les transactions
+- Les fractions
+- Les achats en ligne
+- La ville et les services
 
 **Grammaire**
 

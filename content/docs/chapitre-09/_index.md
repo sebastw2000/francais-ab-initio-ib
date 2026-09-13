@@ -13,12 +13,16 @@ Parler de la vie scolaire, poser des questions et exprimer des souhaits polis en
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Éducation : la vie scolaire, les matières, la journée et l'année scolaire
-- Les activités périscolaires, le règlement
+- La vie scolaire
+- Les matières
+- La journée et l'année scolaire
+- Les activités périscolaires
+- Le règlement
 - Les nombres ordinaux
-- Lieu de travail : les locaux et le personnel du lycée
+- Les locaux et les équipements du lycée
+- Le personnel du lycée
 
 **Grammaire**
 

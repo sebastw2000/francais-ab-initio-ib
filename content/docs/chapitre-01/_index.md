@@ -13,10 +13,12 @@ Se présenter et parler de sa famille en utilisant les verbes "être" et "avoir"
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Relations personnelles : les salutations, la famille, les animaux de compagnie
-- Caractéristiques personnelles : le nom, l'âge, la langue, la nationalité
+- Les salutations
+- La famille
+- Les animaux de compagnie
+- Le nom, l'âge, la langue, la nationalité
 - Les nombres de 0 à 31
 - Les mois de l'année, les dates, les anniversaires
 

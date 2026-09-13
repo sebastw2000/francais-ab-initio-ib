@@ -15,11 +15,14 @@ Décrire un pays, une région ou un paysage et raconter un voyage en utilisant l
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Géographie physique : les pays et les régions, les cartes, les paysages
-- Climat : les prévisions météorologiques
-- Vacances : les récits de voyage, les fêtes et coutumes
+- Les pays et les régions
+- Les cartes
+- Les paysages
+- Les prévisions météorologiques
+- Les récits de voyage
+- Les fêtes et les coutumes
 
 **Grammaire**
 

@@ -13,10 +13,11 @@ Parler des droits et des devoirs des jeunes, de l'amitié et des stéréotypes e
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Relations dans la société : les jeunes dans la société
-- Les droits et les devoirs, les amitiés
+- Les jeunes dans la société
+- Les droits et les devoirs
+- Les amitiés
 - Les préjugés et les stéréotypes
 
 **Grammaire**

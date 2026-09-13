@@ -17,12 +17,13 @@ Parler des fêtes et des traditions et exprimer des obligations et des souhaits 
 
 ## Ce que tu vas apprendre
 
-**Vocabulaire**
+**Aspects couverts**
 
-- Fêtes et célébrations : les fêtes nationales, les fêtes en famille
+- Les fêtes nationales
+- Les fêtes de famille
 - Les sorties et les invitations
-- Aliments et boissons : les recettes de cuisine, les plats typiques
-- Voisinage
+- Les recettes de cuisine
+- Les plats typiques
 
 **Grammaire**
 
