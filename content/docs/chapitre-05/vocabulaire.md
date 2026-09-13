@@ -3,24 +3,6 @@ title: "Vocabulaire"
 weight: 1
 ---
 
-## D'abord je regarde. Ensuite j'interprète.
-
-Avant de parler d'une photo, tu décris d'abord ce que tu vois (les faits), puis tu interprètes ce qui n'est pas visible directement (tes idées).
-
-### Ce que l'on voit vraiment
-
-- Il y a une rue avec des bâtiments.
-- On voit un plan de la ville ou des panneaux.
-- Il y a un arrêt de bus ou une station de métro.
-- Des gens marchent ou attendent le bus.
-
-### Ce que l'on peut imaginer
-
-- Je pense que c'est le centre-ville parce qu'il y a beaucoup de magasins.
-- Je crois que les gens attendent les transports en commun.
-- Il me semble que c'est une grande ville à cause des bâtiments.
-- Je suppose que quelqu'un cherche son chemin.
-
 ## Vocabulaire du chapitre
 
 - la ville — the city

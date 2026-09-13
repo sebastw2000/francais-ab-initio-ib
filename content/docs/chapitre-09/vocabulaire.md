@@ -3,24 +3,6 @@ title: "Vocabulaire"
 weight: 1
 ---
 
-## D'abord je regarde. Ensuite j'interprète.
-
-Avant de parler d'une photo, tu décris d'abord ce que tu vois (les faits), puis tu interprètes ce qui n'est pas visible directement (tes idées).
-
-### Ce que l'on voit vraiment
-
-- Il y a une salle de classe avec des élèves et un professeur.
-- On voit des livres, des cahiers et un tableau.
-- Les élèves sont assis à leur bureau.
-- Il y a peut-être une horloge au mur.
-
-### Ce que l'on peut imaginer
-
-- Je pense que c'est un cours de mathématiques ou de sciences.
-- Je crois que les élèves écoutent attentivement le professeur.
-- Il me semble que c'est le matin parce que tout le monde est concentré.
-- Je suppose que c'est un jour d'école normal.
-
 ## Vocabulaire du chapitre
 
 - le lycée / un(e) élève / un professeur — high school / a student / a teacher

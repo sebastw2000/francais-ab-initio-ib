@@ -3,24 +3,6 @@ title: "Vocabulaire"
 weight: 1
 ---
 
-## D'abord je regarde. Ensuite j'interprète.
-
-Avant de parler d'une photo, tu décris d'abord ce que tu vois (les faits), puis tu interprètes ce qui n'est pas visible directement (tes idées).
-
-### Ce que l'on voit vraiment
-
-- Une personne regarde la télévision ou joue d'un instrument.
-- Il y a un ballon de foot ou une raquette de tennis.
-- On voit des écouteurs ou un téléphone avec de la musique.
-- La personne semble détendue.
-
-### Ce que l'on peut imaginer
-
-- Je pense qu'elle aime le sport parce qu'elle a un ballon.
-- Je crois que c'est son passe-temps préféré parce qu'elle sourit.
-- Il me semble qu'elle pratique cette activité régulièrement.
-- Je suppose que c'est le week-end parce qu'elle a du temps libre.
-
 ## Vocabulaire du chapitre
 
 - regarder la télévision — to watch television
