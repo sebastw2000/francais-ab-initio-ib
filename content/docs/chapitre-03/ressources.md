@@ -12,3 +12,7 @@ weight: 4
 ### Grammaire (Lingolia)
 
 [Les verbes pronominaux](https://francais.lingolia.com/en/grammar/verbs/verbes-pronominaux)
+
+### Flashcards (Quizlet)
+
+[Unité 2 : Ma vie quotidienne Flashcards (Quizlet)](https://quizlet.com/482450973/unite-2-ma-vie-quotidienne-flash-cards/)

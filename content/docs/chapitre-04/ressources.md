@@ -16,3 +16,7 @@ weight: 4
 ### Dialogue audio : À la boulangerie
 
 [À la boulangerie - dialogue (Podcast Français Facile)](https://www.podcastfrancaisfacile.com/dialogue/boulangerie-dialogue-fle.html)
+
+### Flashcards (Quizlet)
+
+[Unité 3 : Bon appétit Flashcards (Quizlet)](https://quizlet.com/437351471/unite-3-bon-appetit-flash-cards/)
