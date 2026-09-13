@@ -11,9 +11,27 @@ Décrire un pays, une région ou un paysage et raconter un voyage en utilisant l
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire de la géographie, du temps et des voyages
-- Le pronom relatif "où" et le comparatif
-- Le passé composé avec "être" et les adverbes en -ment
+**Vocabulaire**
+
+- Géographie physique : les pays et les régions, les cartes, les paysages
+- Climat : les prévisions météorologiques
+- Vacances : les récits de voyage, les fêtes et coutumes
+
+**Grammaire**
+
+- Le pronom "où"
+- Le comparatif des adjectifs
+- Les verbes impersonnels
+- Les adverbes en -ment
+- Le passé composé avec "être"
+
+## Théorie de la connaissance
+
+Le climat influence-t-il le mode de vie des habitants d'un pays ? Discutez.
+
+## Créativité, Activité, Service
+
+Rédigez un bulletin météorologique pour la semaine prochaine et recommandez à vos camarades les vêtements à emporter.
 
 ## Leçons
 

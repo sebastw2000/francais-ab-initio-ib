@@ -11,9 +11,26 @@ Parler de tes loisirs et de tes activités préférées en utilisant "depuis", l
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire du temps libre, de la musique et du sport
-- Les pronoms relatifs "qui" et "que"
-- "Depuis", les verbes + préposition et "c'était" + adjectif
+**Vocabulaire**
+
+- Loisirs : la télévision, la musique, le sport
+
+**Grammaire**
+
+- Les pronoms relatifs "qui", "que"
+- "Depuis"
+- Les verbes + préposition
+- Les verbes pronominaux au passé composé
+- "C'était" + adjectif
+- Les connecteurs logiques
+
+## Théorie de la connaissance
+
+Le sport est un moyen de communication universel : es-tu d'accord ?
+
+## Créativité, Activité, Service
+
+Tu es responsable du ciné-club francophone de ton lycée : crée une affiche pour inviter les élèves au prochain film.
 
 ## Leçons
 

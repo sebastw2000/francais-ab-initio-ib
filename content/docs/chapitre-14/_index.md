@@ -11,9 +11,27 @@ Faire une révision cumulative des temps et des structures du cours en parlant d
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire de l'histoire et de la diversité francophone
-- Le pronom "en"
-- Révision des temps verbaux et des comparaisons
+**Vocabulaire**
+
+- Géographie physique : le climat
+- Questions mondiales : l'historique de la francophonie
+- Caractéristiques personnelles : les renseignements personnels, l'apparence, le caractère
+- Habitudes quotidiennes : la vie quotidienne des jeunes francophones
+
+**Grammaire**
+
+- Le présent
+- Révision des temps des verbes
+- Révision des verbes "pouvoir", "vouloir", "devoir"
+- Révision des comparaisons
+
+## Théorie de la connaissance
+
+Quelle est l'importance de la langue et de la culture d'un pays ?
+
+## Créativité, Activité, Service
+
+Trouvez un lycée partenaire dans un pays francophone pour correspondre et échanger des idées.
 
 ## Leçons
 

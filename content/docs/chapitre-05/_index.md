@@ -11,9 +11,26 @@ Demander et donner des directions en ville en utilisant l'impératif et les pré
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire de la ville et des transports
-- Les prépositions de lieu
-- L'impératif et les adverbes d'intensité
+**Vocabulaire**
+
+- Voisinage : la ville, les services
+- Les directions
+
+**Grammaire**
+
+- Les prépositions
+- Les prépositions "à" / "en" + moyens de transport
+- Les participes passés irréguliers
+- L'impératif
+- Les adverbes d'intensité
+
+## Théorie de la connaissance
+
+Pourquoi et comment créer des liens entre votre ville et d'autres villes d'autres pays ?
+
+## Créativité, Activité, Service
+
+Créez un site web pour votre ville afin d'attirer des touristes francophones.
 
 ## Leçons
 

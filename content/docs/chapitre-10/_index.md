@@ -11,9 +11,28 @@ Parler des fêtes et des traditions et exprimer des obligations et des souhaits 
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire des fêtes et des traditions
-- Les pronoms toniques et le présent continu
-- Les verbes devoir, pouvoir et vouloir
+**Vocabulaire**
+
+- Fêtes et célébrations : les fêtes nationales, les fêtes en famille
+- Les sorties et les invitations
+- Aliments et boissons : les recettes de cuisine, les plats typiques
+- Voisinage
+
+**Grammaire**
+
+- Les pronoms toniques
+- Le présent continu
+- "Être en train de" + infinitif
+- "Devoir" et "vouloir" au présent de l'indicatif
+- "Devoir", "pouvoir", "vouloir" au conditionnel
+
+## Théorie de la connaissance
+
+Une fête nationale doit-elle forcément célébrer le pays ?
+
+## Créativité, Activité, Service
+
+Écrivez un menu représentatif pour la fête nationale de votre pays.
 
 ## Leçons
 

@@ -11,9 +11,29 @@ Parler de projets de vacances futurs en utilisant le futur simple et le superlat
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire du logement, des transports et des vacances
-- Les prépositions avec les pays
-- Le futur simple et le superlatif
+**Vocabulaire**
+
+- Vacances : l'hébergement
+- Loisirs : les activités de vacances
+- Transports : les moyens de transport
+- Divertissements : les attractions et les spectacles
+- Géographie physique : les pays
+- Climat : la météo
+
+**Grammaire**
+
+- Les prépositions
+- Le comparatif et le superlatif des adjectifs
+- Le futur simple
+- Le futur simple : verbes irréguliers
+
+## Théorie de la connaissance
+
+On dit : « Les voyages forment la jeunesse. » Pourquoi ?
+
+## Créativité, Activité, Service
+
+Créez une brochure pour donner des informations sur un voyage de classe.
 
 ## Leçons
 

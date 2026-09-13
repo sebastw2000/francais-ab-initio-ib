@@ -11,9 +11,30 @@ Parler de sa routine quotidienne et de sa maison en utilisant les verbes "aller"
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire pour parler de l'heure, des jours et de la maison
-- Les verbes "aller" et "faire" au présent
-- Les verbes pronominaux, le futur proche et les pronoms
+**Vocabulaire**
+
+- Habitudes quotidiennes : l'heure, les jours de la semaine
+- La maison, la routine à la maison
+- Les nombres de 30 à 60
+
+**Grammaire**
+
+- Le verbe "aller"
+- La négation : ne...jamais
+- Les questions
+- Le verbe "faire"
+- Le futur proche : aller + infinitif
+- Les verbes pronominaux
+- Le pronom "on"
+- Le verbe "prendre"
+
+## Théorie de la connaissance
+
+Pourquoi le style d'habitation varie-t-il selon le pays ?
+
+## Créativité, Activité, Service
+
+En groupes, écrivez une liste de tâches pour aider des personnes âgées de votre communauté pendant votre temps libre.
 
 ## Leçons
 

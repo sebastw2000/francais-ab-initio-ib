@@ -11,9 +11,28 @@ Décrire l'apparence physique, la personnalité et les vêtements d'une personne
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire pour décrire l'apparence, la personnalité et les vêtements
-- L'accord et la place des adjectifs
-- La négation (ne...pas) et les verbes réguliers en -ir et -re
+**Vocabulaire**
+
+- Caractéristiques personnelles : l'apparence (le corps, le portrait physique)
+- L'apparence : les vêtements, les couleurs
+- Le caractère : la personnalité, les goûts
+
+**Grammaire**
+
+- Les adjectifs : masculin / féminin
+- Les adjectifs : singulier / pluriel
+- La place des adjectifs
+- La négation : ne...pas
+- Les verbes réguliers en -ir
+- Le verbe "être"
+
+## Théorie de la connaissance
+
+Les amis jouent-ils un rôle important ? Discutez.
+
+## Créativité, Activité, Service
+
+Avec un(e) partenaire, créez un jeu-questionnaire pour le magazine de votre lycée.
 
 ## Leçons
 
