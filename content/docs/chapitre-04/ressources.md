@@ -5,4 +5,10 @@ weight: 4
 
 ## Matériel téléchargeable
 
-Il n'y a pas encore d'autres ressources pour ce chapitre.
+### Vidéo Easy French : What Is Your Favourite French Food ? (Easy French 90)
+
+{{< youtube xr1V8HDt8GQ >}}
+
+### Grammaire (Lingolia)
+
+[Les articles (dont le partitif)](https://francais.lingolia.com/en/grammar/articles)

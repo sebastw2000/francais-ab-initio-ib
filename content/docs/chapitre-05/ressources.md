@@ -5,4 +5,10 @@ weight: 4
 
 ## Matériel téléchargeable
 
-Il n'y a pas encore d'autres ressources pour ce chapitre.
+### Vidéo Easy French : Asking & Giving Directions (Super Easy French 147)
+
+{{< youtube ZKnn-l4mLLQ >}}
+
+### Grammaire (Lingolia)
+
+[L'impératif](https://francais.lingolia.com/en/grammar/verbs/imperatif)
