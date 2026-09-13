@@ -5,7 +5,7 @@ weight: 100
 
 {{< image src="/images/chapitre-09.svg" alt="Au lycée" >}}
 
-## 🏛️ ORGANISATION SOCIALE
+## 🏛️ ORGANISATION SOCIALE — Éducation, Lieu de travail
 
 ## Objectif
 

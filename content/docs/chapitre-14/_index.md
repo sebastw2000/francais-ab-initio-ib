@@ -5,7 +5,11 @@ weight: 150
 
 {{< image src="/images/chapitre-14.svg" alt="Le français dans le monde" >}}
 
-## 🌍 PARTAGE DE LA PLANÈTE · 🪪 IDENTITÉS · 🎒 EXPÉRIENCES
+## 🌍 PARTAGE DE LA PLANÈTE — Géographie physique, Questions mondiales
+
+## 🪪 IDENTITÉS — Caractéristiques personnelles
+
+## 🎒 EXPÉRIENCES — Habitudes quotidiennes
 
 ## Objectif
 

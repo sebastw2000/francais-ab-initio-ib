@@ -5,7 +5,9 @@ weight: 120
 
 {{< image src="/images/chapitre-11.svg" alt="La santé pour tous" >}}
 
-## 🪪 IDENTITÉS · 🏛️ ORGANISATION SOCIALE
+## 🪪 IDENTITÉS — Bien-être physique, Aliments et boissons
+
+## 🏛️ ORGANISATION SOCIALE — Lieu de travail
 
 ## Objectif
 

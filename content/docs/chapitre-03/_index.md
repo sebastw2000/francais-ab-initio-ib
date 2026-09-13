@@ -5,7 +5,7 @@ weight: 40
 
 {{< image src="/images/chapitre-03.svg" alt="La vie quotidienne" >}}
 
-## 🎒 EXPÉRIENCES
+## 🎒 EXPÉRIENCES — Habitudes quotidiennes
 
 ## Objectif
 

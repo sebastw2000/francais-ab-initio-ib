@@ -5,6 +5,10 @@ weight: 10
 
 {{< image src="/images/introduction.svg" alt="Bienvenue en francophonie" >}}
 
+## 🌍 PARTAGE DE LA PLANÈTE — Géographie physique
+
+## 🎒 EXPÉRIENCES — Habitudes quotidiennes
+
 ## Objectif
 
 Découvrir le monde francophone et apprendre les bases de la grammaire française : le genre des noms et les articles.

@@ -5,7 +5,7 @@ weight: 80
 
 {{< image src="/images/chapitre-07.svg" alt="Temps libre" >}}
 
-## 🎒 EXPÉRIENCES
+## 🎒 EXPÉRIENCES — Loisirs
 
 ## Objectif
 

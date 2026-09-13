@@ -5,7 +5,9 @@ weight: 70
 
 {{< image src="/images/chapitre-06.svg" alt="Mon paradis sur terre" >}}
 
-## 🌍 PARTAGE DE LA PLANÈTE · 🎒 EXPÉRIENCES
+## 🌍 PARTAGE DE LA PLANÈTE — Géographie physique, Climat
+
+## 🎒 EXPÉRIENCES — Vacances, Fêtes et célébrations
 
 ## Objectif
 

@@ -5,7 +5,9 @@ weight: 60
 
 {{< image src="/images/chapitre-05.svg" alt="En ville" >}}
 
-## 🏛️ ORGANISATION SOCIALE
+## 🏛️ ORGANISATION SOCIALE — Voisinage
+
+## 💡 INGÉNIOSITÉ HUMAINE — Transports
 
 ## Objectif
 

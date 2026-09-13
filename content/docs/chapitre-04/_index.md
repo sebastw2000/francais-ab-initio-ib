@@ -5,7 +5,7 @@ weight: 50
 
 {{< image src="/images/chapitre-04.svg" alt="Bon appétit !" >}}
 
-## 🪪 IDENTITÉS
+## 🪪 IDENTITÉS — Aliments et boissons
 
 ## Objectif
 

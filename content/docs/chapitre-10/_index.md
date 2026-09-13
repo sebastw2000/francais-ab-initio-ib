@@ -5,7 +5,11 @@ weight: 110
 
 {{< image src="/images/chapitre-10.svg" alt="Faites la fête !" >}}
 
-## 🎒 EXPÉRIENCES · 🪪 IDENTITÉS · 🏛️ ORGANISATION SOCIALE
+## 🎒 EXPÉRIENCES — Fêtes et célébrations
+
+## 🪪 IDENTITÉS — Aliments et boissons
+
+## 🏛️ ORGANISATION SOCIALE — Voisinage
 
 ## Objectif
 

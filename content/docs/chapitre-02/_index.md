@@ -5,7 +5,7 @@ weight: 30
 
 {{< image src="/images/chapitre-02.svg" alt="Tu es comment ?" >}}
 
-## 🪪 IDENTITÉS
+## 🪪 IDENTITÉS — Caractéristiques personnelles
 
 ## Objectif
 

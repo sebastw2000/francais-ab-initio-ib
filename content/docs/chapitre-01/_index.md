@@ -5,7 +5,7 @@ weight: 20
 
 {{< image src="/images/chapitre-01.svg" alt="Je me présente" >}}
 
-## 🪪 IDENTITÉS
+## 🪪 IDENTITÉS — Relations personnelles, Caractéristiques personnelles
 
 ## Objectif
 

@@ -5,7 +5,11 @@ weight: 130
 
 {{< image src="/images/chapitre-12.svg" alt="L'évolution du shopping" >}}
 
-## 🎒 EXPÉRIENCES · 💡 INGÉNIOSITÉ HUMAINE · 🌍 PARTAGE DE LA PLANÈTE
+## 🎒 EXPÉRIENCES — Habitudes quotidiennes
+
+## 💡 INGÉNIOSITÉ HUMAINE — Technologie
+
+## 🌍 PARTAGE DE LA PLANÈTE — Environnement
 
 ## Objectif
 

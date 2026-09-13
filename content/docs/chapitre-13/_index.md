@@ -5,7 +5,7 @@ weight: 140
 
 {{< image src="/images/chapitre-13.svg" alt="Nous, les jeunes" >}}
 
-## 🪪 IDENTITÉS
+## 🪪 IDENTITÉS — Relations dans la société
 
 ## Objectif
 

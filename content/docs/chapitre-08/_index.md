@@ -5,7 +5,11 @@ weight: 90
 
 {{< image src="/images/chapitre-08.svg" alt="Projets de vacances" >}}
 
-## 🎒 EXPÉRIENCES · 💡 INGÉNIOSITÉ HUMAINE · 🌍 PARTAGE DE LA PLANÈTE
+## 🎒 EXPÉRIENCES — Vacances, Loisirs
+
+## 💡 INGÉNIOSITÉ HUMAINE — Transports, Divertissements
+
+## 🌍 PARTAGE DE LA PLANÈTE — Géographie physique, Climat
 
 ## Objectif
 
