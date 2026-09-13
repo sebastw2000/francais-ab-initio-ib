@@ -11,9 +11,29 @@ Se présenter et parler de sa famille en utilisant les verbes "être" et "avoir"
 
 ## Ce que tu vas apprendre
 
-- Vocabulaire pour se présenter, parler de sa famille et de ses animaux
-- Les verbes "être" et "avoir" au présent
-- Les verbes réguliers en -er, les possessifs et le pluriel des noms
+**Vocabulaire**
+
+- Relations personnelles : les salutations, la famille, les animaux de compagnie
+- Caractéristiques personnelles : le nom, l'âge, la langue, la nationalité
+- Les nombres de 0 à 31
+- Les mois de l'année, les dates, les anniversaires
+
+**Grammaire**
+
+- Les adjectifs : masculin / féminin
+- Le verbe "être"
+- Le verbe "avoir"
+- Les verbes réguliers en -er
+- Les adjectifs possessifs
+- Le pluriel des noms
+
+## Théorie de la connaissance
+
+On adapte la langue à la situation ? Discutez.
+
+## Créativité, Activité, Service
+
+Présentez une personnalité francophone que vous admirez.
 
 ## Leçons
 
